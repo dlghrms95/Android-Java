@@ -1,6 +1,7 @@
 ## Android Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
+👍미처 신경쓰지 못한 사소한 부분(기초)들 상기시키기 좋음
 + Android Beginner  
   ✔ 1. User Interface [2021-03-21]  
   2. User Input  
