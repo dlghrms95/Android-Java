@@ -1,7 +1,7 @@
 ## Android Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 👍 공부해야 할 부분, 방향 탐색가능
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
-👍 안드로이드 in 자바 > 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
+👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 + Android Beginner  
   ✔ 1. User Interface [2021-03-21]  
   ✔ 2. User Input [2021-03-21]  
