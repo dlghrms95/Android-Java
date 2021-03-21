@@ -1,12 +1,12 @@
 ## [android_roadmap](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 
 ## [Google Android Training Courses](https://developer.android.com/courses?hl=ko)
-+ Android Beginner
-  ✔ 1. User Interface
-  2. User Input
-  3. Multiscreen Apps
-  4. Networking
-  5. Data Storage
++ Android Beginner  
+  ✔ 1. User Interface  
+  2. User Input  
+  3. Multiscreen Apps  
+  4. Networking  
+  5. Data Storage  
 + Android Intermediate
   1. Unit 1: Get started
   2. Unit 2: User experience
