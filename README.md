@@ -1,4 +1,4 @@
-## Android_Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
+## Android Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 + Android Beginner  
