@@ -3,7 +3,7 @@
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 
-**- Android Beginner**
+### - Android Beginner
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
   + LESSON 1 ~ LESSON 5 : Building Layout</details>
@@ -21,7 +21,7 @@
   
   + LESSON 1 : </details>  
 
-**- Android Intermediate**  
+### - Android Intermediate  
   <details><summary>1. Unit 1: Get started</summary>
   
   + LESSON 1 : </details>
@@ -35,7 +35,7 @@
 
   + LESSON 1 : </details>  
 
-**- Advanced**  
+### - Advanced
   <details><summary>1. Unit 1: Expand the user experience</summary>
 
   + LESSON 1 : </details>
