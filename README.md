@@ -59,19 +59,27 @@
 ### - Advanced
   <details><summary>1. Unit 1: Expand the user experience</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Fragments
+  + LESSON 2 : App widgets
+  + LESSON 3 : Sensors</details>
   <details><summary>2. Unit 2: Make your apps fast and small</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Performance</details>
   <details><summary>3. Unit 3: Make your apps accessible</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Localization
+  + LESSON 2 : Accessibility</details>
   <details><summary>4. Unit 4: Add geo features to your apps</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Location
+  + LESSON 2 : Places
+  + LESSON 3 : Mapping</details>
   <details><summary>5. Unit 5: Advanced graphics and views</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Custom views
+  + LESSON 2 : Canvas
+  + LESSON 3 : Animations
+  + LESSON 4 : Playing video</details>
 
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 
