@@ -10,9 +10,15 @@
   
   + LESSON 1 ~ LESSON 3 : Making an App Interactive
   + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
-  <details><summary>3. Multiscreen Apps</summary></details>
-  <details><summary>4. Networking</summary></details>
-  <details><summary>5. Data Storage</summary></details>  
+  <details><summary>3. Multiscreen Apps</summary>
+  
+  + LESSON 1 : </details>
+  <details><summary>4. Networking</summary>
+  
+  + LESSON 1 : </details>
+  <details><summary>5. Data Storage</summary>
+  
+  + LESSON 1 : </details>  
 
 + **Android Intermediate**
   <details><summary>1. Unit 1: Get started</summary></details>
