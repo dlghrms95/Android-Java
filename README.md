@@ -13,7 +13,7 @@
   <details><summary>2. Unit 2: User experience</summary>sdfsdf</details>
   <details><summary>3. Unit 3: Working in the background</summary>sdfsdf</details>
   <details><summary>4. Unit 4: Saving user data</summary>sdfsdf</details>  
-+ **Advanced**  
++  **Advanced**  
 1. Unit 1: Expand the user experience
 2. Unit 2: Make your apps fast and small
 3. Unit 3: Make your apps accessible
