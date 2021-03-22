@@ -3,8 +3,8 @@
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 + Android Beginner  
-  ✔ <details><summary>1. User Interface [2021-03-21] ✔</summary>sdfsdf</details>
-  ✔ 2. User Input [2021-03-21]  
+  <details><summary>1. User Interface [2021-03-21] ✔</summary>sdfsdf</details>
+  <details><summary>2. User Input [2021-03-21] ✔</summary>sdfsdf</details>
   3. Multiscreen Apps  
   4. Networking  
   5. Data Storage  
