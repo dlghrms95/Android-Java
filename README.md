@@ -39,16 +39,22 @@
 ### - Android Intermediate  
   <details><summary>1. Unit 1: Get started</summary>
   
-  + LESSON 1 : </details>
+  + LESSON 1 : Build app(interactive UI, layout editor, Text and scrolling view)
+  + LESSON 2 : Activities and intents(Activities and intent, lifecycle and state, implicit intents)
+  + LESSON 3 : Testing, Debugging, using support libraries(debugger, unit tests, support libraries</details>
   <details><summary>2. Unit 2: User experience</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : User interaction(Clickable images, Input controls, Menues and pickers, User navigation, RecyclerView)
+  + LESSON 2 : Delightful user experience(Drawables, styles and themes, Cards and colors, Adaptive layouts)
+  + LESSON 3 : Testing UI(Espresso for UI testing)</details>
   <details><summary>3. Unit 3: Working in the background</summary>
 
-  + LESSON 1 : </details>
+  + LESSON 1 : Backgrount tasks(AsyncTask, AsyncTaskLoader, Broadcast receivers)
+  + LESSON 2 : Alarms and schedulers(Notifications, alarm manager, JobScheduler)</details>
   <details><summary>4. Unit 4: Saving user data</summary>
 
-  + LESSON 1 : </details>  
+  + LESSON 1 : SharedPreferences and settings
+  + LESSON 2 : Storing data with Room(Room, LiveData, and ViewModel, Deleting data from a Room database)</details>  
 
 ### - Advanced
   <details><summary>1. Unit 1: Expand the user experience</summary>
