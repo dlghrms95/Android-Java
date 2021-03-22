@@ -13,13 +13,28 @@
   + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
   <details><summary>3. Multiscreen Apps</summary>
   
-  + LESSON 1 : </details>
+  + LESSON 1 : Intents and Activities
+  + LESSON 2 : Arrays, Lists, Loops & Custom Classes
+  + LESSON 3 : Design a Report Card Class
+  + LESSON 4 : Images and Visual Polish
+  + LESSON 5 : Activity Lifecycle and Audio Playback
+  + LESSON 6 : Fragment
+  + PROJECT : Tour Guide App</details>
   <details><summary>4. Networking</summary>
   
-  + LESSON 1 : </details>
+  + LESSON 1 : JSON Parsing
+  + LESSON 2 : HTTP Networking
+  + LESSON 3 : Threads & Parallelism
+  + LESSON 4 : Book Listing App
+  + LESSON 5 : Preferences
+  + PROJECT : News App</details>
   <details><summary>5. Data Storage</summary>
   
-  + LESSON 1 : </details>  
+  + LESSON 1 : Database Basics
+  + LESSON 2 : Using a Database in an Android App
+  + LESSON 3 : Introduction to Content Providers
+  + LESSON 4 : Loading Data Using CusorLoader
+  + PROJECT : Inventory App</details>  
 
 ### - Android Intermediate  
   <details><summary>1. Unit 1: Get started</summary>
