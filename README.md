@@ -3,11 +3,11 @@
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 + **Android Beginner**
-<details><summary>1. User Interface [2021-03-21] ✔</summary>sdfsdf</details>
-<details><summary>2. User Input [2021-03-21] ✔</summary>sdfsdf</details>
-<details><summary>3. Multiscreen Apps</summary>sdfsdf</details>
-<details><summary>4. Networking</summary>sdfsdf</details>
-<details><summary>5. Data Storage</summary>sdfsdf</details>  
+  <details><summary>1. User Interface [2021-03-21] ✔</summary>sdfsdf</details>
+  <details><summary>2. User Input [2021-03-21] ✔</summary>sdfsdf</details>
+  <details><summary>3. Multiscreen Apps</summary>sdfsdf</details>
+  <details><summary>4. Networking</summary>sdfsdf</details>
+  <details><summary>5. Data Storage</summary>sdfsdf</details>  
 
 + **Android Intermediate**  
   <details><summary>1. Unit 1: Get started</summary>sdfsdf</details>
