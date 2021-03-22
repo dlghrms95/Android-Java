@@ -4,8 +4,10 @@
 👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 + **Android Beginner**
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
+  
     - LESSON 1 ~ LESSON 5 : Building Layout</details>  
   <details><summary>2. User Input [2021-03-21] ✔</summary>
+  
     - LESSON 1 ~ LESSON 3 : Making an App Interactive
     - LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
   <details><summary>3. Multiscreen Apps</summary></details>
