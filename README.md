@@ -21,17 +21,35 @@
   + LESSON 1 : </details>  
 
 + **Android Intermediate**
-  <details><summary>1. Unit 1: Get started</summary></details>
-  <details><summary>2. Unit 2: User experience</summary></details>
-  <details><summary>3. Unit 3: Working in the background</summary></details>
-  <details><summary>4. Unit 4: Saving user data</summary></details>  
+  <details><summary>1. Unit 1: Get started</summary>
+  
+  + LESSON 1 : </details>
+  <details><summary>2. Unit 2: User experience</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>3. Unit 3: Working in the background</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>4. Unit 4: Saving user data</summary>
+
+  + LESSON 1 : </details>  
 
 + **Advanced**
-  <details><summary>1. Unit 1: Expand the user experience</summary></details>
-  <details><summary>2. Unit 2: Make your apps fast and small</summary></details>
-  <details><summary>3. Unit 3: Make your apps accessible</summary></details>
-  <details><summary>4. Unit 4: Add geo features to your apps</summary></details>
-  <details><summary>5. Unit 5: Advanced graphics and views</summary></details>
+  <details><summary>1. Unit 1: Expand the user experience</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>2. Unit 2: Make your apps fast and small</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>3. Unit 3: Make your apps accessible</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>4. Unit 4: Add geo features to your apps</summary>
+
+  + LESSON 1 : </details>
+  <details><summary>5. Unit 5: Advanced graphics and views</summary>
+
+  + LESSON 1 : </details>
 
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 
