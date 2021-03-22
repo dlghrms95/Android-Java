@@ -4,10 +4,10 @@
 👍 안드로이드 in 자바 - 미처 신경쓰지 못한 사소한 부분들(기초) 상기시키기 좋음
 + **Android Beginner**
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
-  - LESSON 1 ~ LESSON 5 : Building Layout</details>
+  + LESSON 1 ~ LESSON 5 : Building Layout</details>
   <details><summary>2. User Input [2021-03-21] ✔</summary>
-  - LESSON 1 ~ LESSON 3 : Making an App Interactive
-  - LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
+  + LESSON 1 ~ LESSON 3 : Making an App Interactive
+  + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
   <details><summary>3. Multiscreen Apps</summary></details>
   <details><summary>4. Networking</summary></details>
   <details><summary>5. Data Storage</summary></details>  
@@ -20,7 +20,7 @@
 
 + **Advanced**
   <details><summary>1. Unit 1: Expand the user experience</summary></details>
-  <details><summary>2. Unit 2: Make your apps fast and small</summary></deails>
+  <details><summary>2. Unit 2: Make your apps fast and small</summary></details>
   <details><summary>3. Unit 3: Make your apps accessible</summary></details>
   <details><summary>4. Unit 4: Add geo features to your apps</summary></details>
   <details><summary>5. Unit 5: Advanced graphics and views</summary></details>
