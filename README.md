@@ -5,11 +5,11 @@
 + **Android Beginner**
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
-  + LESSON 1 ~ LESSON 5 : Building Layout</details>   
+  + LESSON 1 ~ LESSON 5 : Building Layout</details>
   <details><summary>2. User Input [2021-03-21] ✔</summary>
   
   + LESSON 1 ~ LESSON 3 : Making an App Interactive
-  + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>  
+  + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
   <details><summary>3. Multiscreen Apps</summary></details>
   <details><summary>4. Networking</summary></details>
   <details><summary>5. Data Storage</summary></details>  
