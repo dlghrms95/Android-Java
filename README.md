@@ -3,7 +3,8 @@
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 
 ### - Android Beginner
-👍 미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음, 공식문서를 참조해 설명해줘서 좋음
+👍 미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음,  
+  단순히 기능구현이 아니라 원초적인 부분까지 세세히 알려주는점과 공식문서를 참조해 설명주는점이 좋음
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
   + LESSON 1 ~ LESSON 5 : Building Layout</details>
