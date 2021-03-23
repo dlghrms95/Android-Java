@@ -2,7 +2,7 @@
 👍 공부해야 할 부분, 방향 탐색가능
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
 
-### - Android Beginner
+### - Android Beginner [>](https://classroom.udacity.com)
 👍 미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음,  
     단순히 기능구현이 아니라 원초적인 부분까지 세세히 알려주는점과 공식문서를 참조해 설명주는점이 좋음
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
@@ -12,7 +12,7 @@
   
   + LESSON 1 ~ LESSON 3 : Making an App Interactive
   + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
-  [-](https://classroom.udacity.com/courses/ud839)<details><summary>3. Multiscreen Apps  [2021-03-24] ✔</summary>
+  <details><summary>3. Multiscreen Apps  [2021-03-24] ✔</summary>
   
   + LESSON 1 : Intents and Activities
   + LESSON 2 : Arrays, Lists, Loops & Custom Classes
