@@ -91,5 +91,7 @@
 
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA
-+ [Array vs List](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
++ [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
++ [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
++ [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
 
