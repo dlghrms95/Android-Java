@@ -84,6 +84,12 @@
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 
 
-## 중간중간 학습하며 정리하는 내용
+## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
+
+
+
+## 중간중간 학습하며 정리하는 내용 - JAVA
++ [Array vs List](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
+
