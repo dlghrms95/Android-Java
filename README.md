@@ -12,7 +12,7 @@
   
   + LESSON 1 ~ LESSON 3 : Making an App Interactive
   + LESSON 4 ~ LESSON 5 : Object-Oriented Programming</details>
-  <details><summary>3. Multiscreen Apps  [2021-03-24] ✔</summary>
+  [-](https://classroom.udacity.com/courses/ud839)<details><summary>3. Multiscreen Apps  [2021-03-24] ✔</summary>
   
   + LESSON 1 : Intents and Activities
   + LESSON 2 : Arrays, Lists, Loops & Custom Classes
