@@ -5,7 +5,8 @@
 ### - Android Beginner [>](https://classroom.udacity.com)
 👍 미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음,  
     단순히 기능구현이 아니라 원초적인 부분까지 세세히 알려주는점과 공식문서를 참조해 설명주는점이 좋음,  
-    근데 그래서그런지 알던것도 어려운거같이 느껴짐..
+    근데 그래서그런지 알던것도 어려운거같이 느껴짐, 최신강의영상이 아니라서 개선된 방식들이 몇개 있음  
+    때문에 이 내용들을 기반으로 개선된 방법들 
   <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
   + LESSON 1 ~ LESSON 5 : Building Layout</details>
