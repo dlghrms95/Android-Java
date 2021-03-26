@@ -105,10 +105,30 @@
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
 
-## 많이사용하는 라이브러리 및 최신동향에 맞추어 공부할내용
-+ Retrofit
-+ Room
+## 차근차근 알아갈 내용
+아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
++ Retrofit : 서버와 API통신할 때 쉽게 통신할 수 있도록 도와주는 라이브러리
++ RxAndroid, Rxjava : 코틀린 도입 이후 자주쓰이는 리엑트 패러다임의 Rxjava. RxAndroid라이브러리는 Rxjava에 좀더 필요한 클래스를 추가하여 안드로이드 내에서 리엑티브 구성요소들을 편리하게 사용 가능하게 해주는 라이브러리
++ LeakCanary : 메모리 릭 체크하는 라이브러리
++ Coroutines
++ Glide : 이미지로딩 라이브러리
++ picasso : 이미지로딩 라이브러리
++ Matisse : 이미지, 및 비디오 선택기 이쁜 라이브러리
++ FancyDialog : 이쁜 다이얼로그 라이브러리
++ Gson
++ Realm
++ Dagger : 의존성 주입 라이브러리
++ ButterKnife : DataBinding이나 Kotlin 사용시 큰 핑요성 없음 예전에 많이썻던 라이브러리
++ DataBinding
++ RoomDB
++ EventBUs : 컴포넌트간 통신을 간단하게 해주는 라이브러리
++ Otto : Event Bus개념으로 특정 이벤트가 발생할 때까지 대기하다가 해당 이벤트가 발생하면 함수를 실행시켜주는 라이브러리
++ Custom UI
++ Firebase(Fabric - Crashlytics간 통합해서 사용) : 로깅, 호스팅, A/B테스트 등 많은기능 제공하는 라이브러리
 + MVVM
++ MVC
++ TDD
++ 알아야할게 너무많다...
 + ...
 + ...
 
