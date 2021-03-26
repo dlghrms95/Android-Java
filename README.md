@@ -88,7 +88,7 @@
 👍 기본내용 복습하기  
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
-+ [2021-03-26] : Intent, Lifecycle, Service, BroadcastReciver, Fragment, ActionBar, Tab, Viewpager ✔
++ [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver, Fragment, ActionBar, Tab, Viewpager ✔
 + [2021-03-27] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
 + [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView 
 + [2021-03-28] : DB, SQL, Table, Helper
