@@ -85,8 +85,15 @@
   + LESSON 4 : Playing video</details>
 
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
-👍 
-
+👍 기본내용 복습하기  
++ [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable
++ [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner
++ [2021-03-26] : Intent, Lifecycle, Service, BroadcastReciver, Fragment, ActionBar, Tab, Viewpager
++ [2021-03-27] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
++ [2021-03-28] : DB, SQL, Table, Helper
++ [2021-03-29] : MultiMedia(picture, music, video, audio), RecyclerView 
++ [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash
++ 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
@@ -97,4 +104,10 @@
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
+
+## 많이사용하는 라이브러리 및 최신동향에 맞추어 공부할내용
++ Retrofit
++ Room
++ ...
++ ...
 
