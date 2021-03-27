@@ -1,13 +1,16 @@
 ## Android Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 👍 공부해야 할 부분, 방향 탐색가능
 ## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
-
+```👍 근본
+미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음,  
+단순히 기능구현이 아니라 원초적인 부분까지 세세히 알려주는점과 공식문서를 참조해 설명주는점이 좋음,  
+근데 그래서그런지 알던것도 제대로 이해한게 아닌지라 어려운거같이 느껴짐, 
+최신강의영상이 아니라서 개선된 방식들이 몇개 있고 그래서 이 내용들을 기반으로 개선된 방법들 찾아서 같이 공부해야함. 
+수준별로 학습할 수 있어서 차근차근 공부해나가야 할듯. 
+```
 ### - Android Beginner [>](https://classroom.udacity.com)
-👍 미처 신경쓰지 못한 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋음,  
-    단순히 기능구현이 아니라 원초적인 부분까지 세세히 알려주는점과 공식문서를 참조해 설명주는점이 좋음,  
-    근데 그래서그런지 알던것도 어려운거같이 느껴짐, 최신강의영상이 아니라서 개선된 방식들이 몇개 있음  
-    때문에 이 내용들을 기반으로 개선된 방법들 찾아서 같이 
-  <details><summary>1. User Interface [2021-03-21] ✔</summary>
+
+<details><summary>1. User Interface [2021-03-21] ✔</summary>
   
   + LESSON 1 ~ LESSON 5 : Building Layout</details>
   <details><summary>2. User Input [2021-03-22] ✔</summary>
@@ -85,7 +88,10 @@
   + LESSON 4 : Playing video</details>
 
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
-👍 안드로이드 기본내용 복습하기  
+```👍 안드로이드 기본내용 복습하기  
+단순하게 기능을 구현하는것은 찾아보면서 하면 그리 어렵지 않지만, 단일기능들을 묶어서 하나의 서비스로 만들기 위해선  
+구조나 기능이 어떤과정으로 쓰이는지 등 기초적인 부분으로부터 파생되는 지식에 대한 이해가 많이 필요로 한다는 것을 느낀다.
+```
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔ 
