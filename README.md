@@ -23,7 +23,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking [2021-03-27]</summary>
+  <details><summary>4. Networking</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -31,7 +31,7 @@
   + LESSON 4 : Book Listing App
   + LESSON 5 : Preferences
   + PROJECT : News App</details>
-  <details><summary>5. Data Storage [2021-03-28]</summary>
+  <details><summary>5. Data Storage</summary>
   
   + LESSON 1 : Database Basics
   + LESSON 2 : Using a Database in an Android App
@@ -88,11 +88,12 @@
 👍 안드로이드 기본내용 복습하기  
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
-+ [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver, Fragment, ActionBar, Tab, Viewpager ✔
-+ [2021-03-27] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
-+ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView 
++ [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔ 
++ [2021-03-27] : Fragment, ActionBar, Tab, Viewpager 
++ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView
++ [2021-03-27] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
++ [2021-03-28] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
 + [2021-03-28] : DB, SQL, Table, Helper
-+ [2021-03-28] : ThreadAnimation, TwinAnimation, PageSliding, Splash
 
 ## Jump to Java > [Link](https://wikidocs.net/book/31)
 👍 자바 기본내용 복습하기
