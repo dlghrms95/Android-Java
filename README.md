@@ -85,7 +85,7 @@
   + LESSON 4 : Playing video</details>
 
 ## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
-👍 기본내용 복습하기  
+👍 안드로이드 기본내용 복습하기  
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver, Fragment, ActionBar, Tab, Viewpager ✔
@@ -93,6 +93,9 @@
 + [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView 
 + [2021-03-28] : DB, SQL, Table, Helper
 + [2021-03-28] : ThreadAnimation, TwinAnimation, PageSliding, Splash
+
+## Jump to Java > [Link](https://wikidocs.net/book/31)
+👍 자바 기본내용 복습하기
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
