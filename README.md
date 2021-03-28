@@ -98,8 +98,8 @@
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔
-+ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView ✔
-+ [2021-03-28] : Fragment, ActionBar, Tab, Viewpager, TitleStrip ✔
++ [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
++ [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-29 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
 + [2021-03-29 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
 + [2021-03-29 예정] : DB, SQL, Table, Helper
