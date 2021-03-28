@@ -27,7 +27,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking</summary>
+  <details><summary>4. Networking  [2021-03-30] 예정</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -35,7 +35,7 @@
   + LESSON 4 : Book Listing App
   + LESSON 5 : Preferences
   + PROJECT : News App</details>
-  <details><summary>5. Data Storage</summary>
+  <details><summary>5. Data Storage  [2021-03-31] 예정</summary>
   
   + LESSON 1 : Database Basics
   + LESSON 2 : Using a Database in an Android App
