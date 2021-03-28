@@ -6,8 +6,8 @@
 미처 신경쓰지 않고 지나간 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋은 사이트임.  
 안드로이드 기능에 대해서 자바의 원초적인 부분으로부터 설명해주며, 공식문서를 참조해서 설명해주는점이 장점.  
 근데 그래서 그런지 알던것도 제대로 이해한게 아닌지라 어려운거같이 느껴지고 영어라 조콤 불편함.  
-또한 최신강의영상이 아니라서 개선된 방식들이 몇개 있어서 이 내용들을 기반으로 개선된 방법들 찾아서 같이 공부해야함.  
-입문 중급 고급까지 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯. 
+최신강의영상이 아니라서 이 내용들을 기반으로 개선된 방법들 찾아서 같이 공부해야함.  
+입문,중급,고급까지 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯. 
 ```
 ### - Android Beginner [>](https://classroom.udacity.com)
 
@@ -97,12 +97,12 @@
 ```
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
-+ [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔ 
-+ [2021-03-27] : Fragment, ActionBar, Tab, Viewpager 
-+ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView
-+ [2021-03-27] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
-+ [2021-03-28] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
-+ [2021-03-28] : DB, SQL, Table, Helper
++ [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔
++ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView 
++ [2021-03-28] : Fragment, ActionBar, Tab, Viewpager 
++ [2021-03-28] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
++ [2021-03-29] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
++ [2021-03-29] : DB, SQL, Table, Helper
 
 ## Jump to Java > [Link](https://wikidocs.net/book/31)
 👍 자바 기본내용 복습하기
