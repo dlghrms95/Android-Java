@@ -98,11 +98,11 @@
 + [2021-03-24] : Layout(Constratint, Linear, Relative, Frame), Wiget,Drawable ✔
 + [2021-03-25] : Event, Toast, Inflation, ListView(Adapter), GridView, Spinner ✔
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔
-+ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView 
-+ [2021-03-28] : Fragment, ActionBar, Tab, Viewpager 
-+ [2021-03-28] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
-+ [2021-03-29] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
-+ [2021-03-29] : DB, SQL, Table, Helper
++ [2021-03-27] : MultiMedia(picture, music, video, audio), RecyclerView ✔
++ [2021-03-28] : Fragment, ActionBar, Tab, Viewpager ✔
++ [2021-03-29 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
++ [2021-03-29 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
++ [2021-03-29 예정] : DB, SQL, Table, Helper
 
 ## Jump to Java > [Link](https://wikidocs.net/book/31)
 👍 자바 기본내용 복습하기
