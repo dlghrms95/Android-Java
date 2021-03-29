@@ -106,11 +106,13 @@
 + [2021-03-31 예정] : 네트워킹 특강(서버와의 통신이 필요한 앱에 적용하는 일반적인 네트워킹 방법)  
 <details><summary>네트워킹 특강</summary>
 
+```
 서버와의 통신이 필요한 앱에 적용하는 일반적인 네트워킹 방법  
 Thread, AsyncTask, Gson 정리 및 Node.js를 이용한 클라우드 서버 구성방법  
 3-tier C/S 모델, P2P 모델, Node.js를 이용한 소켓 서버 구성(net 패키지)  
 STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등  
 네트워킹 개요 ~ 소켓 사용 ~ 웹 사용 ~ 비동기 처리 ~ 웹을위한 Volley, Gson ~ 이미지 업로드/다운로드 ~ 웹소켓을 이용한 메시징 ~ YouTube 실시간 등
+```
 </details>
 
 ## Jump to Java > [Link](https://wikidocs.net/book/31)
