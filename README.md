@@ -103,6 +103,10 @@
 + [2021-03-29 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
 + [2021-03-29 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
 + [2021-03-29 예정] : DB, SQL, Table, Helper
++ [2021-03-31 예정] : 네트워킹 특강(서버와의 통신이 필요한 앱에 적용하는 일반적인 네트워킹 방법)  
++ <details><summary>네트워킹 특강</summary>
+ㄴㅁㄴㄹㅇ
+</details>
 
 ## Jump to Java > [Link](https://wikidocs.net/book/31)
 👍 자바 기본내용 복습하기
