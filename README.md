@@ -100,8 +100,8 @@
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔
 + [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
-+ [2021-03-30 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
-+ [2021-03-30 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
++ [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
++ [2021-03-31 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api 
 + [2021-04-01 예정] : DB, SQL, Table, Helper
 <details><summary>[2021-03-31 예정] 네트워킹 특강</summary>
 
