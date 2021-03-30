@@ -27,7 +27,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking  [2021-03-31] 예정</summary>
+  <details><summary>4. Networking  [2021-04-03] 예정</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -35,7 +35,7 @@
   + LESSON 4 : Book Listing App
   + LESSON 5 : Preferences
   + PROJECT : News App</details>
-  <details><summary>5. Data Storage  [2021-03-30] 예정</summary>
+  <details><summary>5. Data Storage  [2021-04-04] 예정</summary>
   
   + LESSON 1 : Database Basics
   + LESSON 2 : Using a Database in an Android App
@@ -100,9 +100,9 @@
 + [2021-03-26] : Intent, Flag, Lifecycle, Service, BroadcastReciver ✔
 + [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
-+ [2021-03-29 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
-+ [2021-03-29 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
-+ [2021-03-30 예정] : DB, SQL, Table, Helper
++ [2021-03-30 예정] : Thread, AsyncTask, Socket, Http, Volley, Json, Gson, Api
++ [2021-03-30 예정] : ThreadAnimation, TwinAnimation, PageSliding, Splash 
++ [2021-04-01 예정] : DB, SQL, Table, Helper
 <details><summary>[2021-03-31 예정] 네트워킹 특강</summary>
 
 ```
