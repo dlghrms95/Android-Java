@@ -122,11 +122,30 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
++ Inflate, LayoutInflater
++ Fragment with Interface
++ Context
++ ViewHolder
++ Junit
++ Bundle message
++ Thread클래스와 Runnable인터페이스
++ Custom UI
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
++ Java 객체지향 - 캡슐화, 접근제어자
++ 클래스와 인스턴스, 클래스와 생성자
++ getter/setter
++ 인터페이스 vs 추상클래스
++ 동기 vs 비동기
++ Rxjava : 반응형 프로그래밍(비동기처리, 콜백지옥탈출..)
++ 람다식
++ 메소드 초기화, static
++ init
++ 객체 지향
+
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
@@ -154,4 +173,5 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 알아야할게 너무많다...
 + ...
 + ...
++ ARcore, OpenGL ..
 
