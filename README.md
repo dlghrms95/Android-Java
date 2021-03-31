@@ -124,6 +124,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + Inflate, LayoutInflater
 + Fragment with Interface
++ Intent(implicit, explicit)
 + Context
 + ViewHolder
 + Junit
