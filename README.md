@@ -9,7 +9,7 @@
 최신강의영상이 아니라서 이 내용들을 기반으로 개선된 방법들 찾아서 같이 공부해야함.  
 입문,중급,고급까지 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯. 
 ```
-### - Android Beginner [>](https://classroom.udacity.com)
+### - Android Beginner(video based) [>](https://classroom.udacity.com)
 
 <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
@@ -43,7 +43,9 @@
   + LESSON 4 : Loading Data Using CusorLoader
   + PROJECT : Inventory App</details>  
 
-### - Android Intermediate  
+### - Advanced Android App Development (video based) [>](https://www.udacity.com/course/advanced-android-app-development--ud855)
+
+### - Android Intermediate (Codelab based)
   <details><summary>1. Unit 1: Get started</summary>
   
   + LESSON 1 : Build app(interactive UI, layout editor, Text and scrolling view)
@@ -63,7 +65,7 @@
   + LESSON 1 : SharedPreferences and settings
   + LESSON 2 : Storing data with Room(Room, LiveData, and ViewModel, Deleting data from a Room database)</details>  
 
-### - Advanced
+### - Advanced (Codelab based)
   <details><summary>1. Unit 1: Expand the user experience</summary>
 
   + LESSON 1 : Fragments
@@ -88,7 +90,7 @@
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
 
-## Naver Connect boostcourse android > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
+## Naver Connect boostcourse android (video based) > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 안드로이드 기본내용 복습하기  
 ```
 단순하게 기능을 구현하는것은 찾아보면서 하면 그리 어렵지 않지만, 단일기능들을 묶어서 하나의 서비스로 만들기 위해선  
