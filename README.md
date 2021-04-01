@@ -117,7 +117,8 @@
 Thread, AsyncTask, Gson 정리 및 Node.js를 이용한 클라우드 서버 구성방법  
 3-tier C/S 모델, P2P 모델, Node.js를 이용한 소켓 서버 구성(net 패키지)  
 STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등  
-네트워킹 개요 ~ 소켓 사용 ~ 웹 사용 ~ 비동기 처리 ~ 웹을위한 Volley, Gson ~ 이미지 업로드/다운로드 ~ 웹소켓을 이용한 메시징 ~ YouTube 실시간 등
+네트워킹 개요 ~ 소켓 사용 ~ 웹 사용 ~ 비동기 처리 ~ 웹을위한 Volley, Gson ~ 
+이미지 업로드/다운로드 ~ 웹소켓을 이용한 메시징 ~ YouTube 실시간 등
 ```
 </details>
 
