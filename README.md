@@ -126,6 +126,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Other site](https://eskeptor.tistory.com/28?category=928923)
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
+## Kotlin
+
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
