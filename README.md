@@ -156,6 +156,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 메소드 초기화, static
 + init
 + 객체 지향
++ findviewbyid vs viewbinding
 
 
 ## 차근차근 알아갈 내용
