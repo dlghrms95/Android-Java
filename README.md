@@ -28,7 +28,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking  [2021-04-04] 예정</summary>
+  <details><summary>4. Networking  [2021-04-05] 예정</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -36,7 +36,7 @@
   + LESSON 4 : Book Listing App
   + LESSON 5 : Preferences
   + PROJECT : News App</details>
-  <details><summary>5. Data Storage  [2021-04-05] 예정</summary>
+  <details><summary>5. Data Storage  [2021-04-06] 예정</summary>
   
   + LESSON 1 : Database Basics
   + LESSON 2 : Using a Database in an Android App
@@ -110,7 +110,7 @@
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
 + [2021-04-02] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json, Gson, Api ✔
 + [2021-04-03 예정] : DB, SQL, Table, Helper
-<details><summary>[2021-04-03 예정] 네트워킹 특강</summary>
+<details><summary>[2021-04-04 예정] 네트워킹 특강</summary>
 
 ```
 서버와의 통신이 필요한 앱에 적용하는 일반적인 네트워킹 방법  
@@ -141,6 +141,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Bundle message
 + Thread클래스와 Runnable인터페이스
 + Custom UI
++ findviewbyid vs viewbinding
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
@@ -156,7 +157,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 메소드 초기화, static
 + init
 + 객체 지향
-+ findviewbyid vs viewbinding
++ 네트워크(POST 와 GET)
+
+
 
 
 ## 차근차근 알아갈 내용
