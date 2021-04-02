@@ -108,8 +108,8 @@
 + [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
-+ [2021-04-01] : Thread, AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json, Gson, Api ✔
-+ [2021-04-02 예정] : DB, SQL, Table, Helper
++ [2021-04-02] : Thread, AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json, Gson, Api ✔
++ [2021-04-03 예정] : DB, SQL, Table, Helper
 <details><summary>[2021-04-03 예정] 네트워킹 특강</summary>
 
 ```
