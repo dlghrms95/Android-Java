@@ -172,21 +172,20 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + picasso : 이미지로딩 라이브러리
 + Matisse : 이미지, 및 비디오 선택기 이쁜 라이브러리
 + FancyDialog : 이쁜 다이얼로그 라이브러리
-+ Gson
 + Realm
 + Dagger : 의존성 주입 라이브러리
-+ ButterKnife : DataBinding이나 Kotlin 사용시 큰 핑요성 없음 예전에 많이썻던 라이브러리
++ ButterKnife : DataBinding이나 Kotlin 사용시 큰 필요성 없음 예전에 많이썻던 라이브러리
 + DataBinding
-+ RoomDB
++ RoomDB : sqlite 보다 업글버전 구글이 권장함
 + EventBUs : 컴포넌트간 통신을 간단하게 해주는 라이브러리
 + Otto : Event Bus개념으로 특정 이벤트가 발생할 때까지 대기하다가 해당 이벤트가 발생하면 함수를 실행시켜주는 라이브러리
 + Custom UI
 + Firebase(Fabric - Crashlytics간 통합해서 사용) : 로깅, 호스팅, A/B테스트 등 많은기능 제공하는 라이브러리
 + MVVM
 + MVC
++ MVP
 + TDD
-+ 알아야할게 너무많다...
-+ ...
-+ ...
 + ARcore, OpenGL ..
++ ...
++ ...
 
