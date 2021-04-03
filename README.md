@@ -148,7 +148,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
 + Java 객체지향 - 캡슐화, 접근제어자
-+ 클래스와 인스턴스, 클래스와 생성자
++ 클래스와 인스턴스, 클래스와 생성자, 클래스와 객체
 + getter/setter
 + 인터페이스 vs 추상클래스
 + 동기 vs 비동기
