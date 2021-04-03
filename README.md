@@ -159,8 +159,30 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 객체 지향
 + 네트워크(POST 와 GET)
 
+## 실무능력(자격요건) 배양하기[자격요건 / 우대사항]
++ Component 에대한 정확한 이해
++ Mobile DB(Sqlite, Room, ...)
++ Custom UI
++ Socket 통신, RESTApi, Retrofit 
++ Multi Thread 
++ 디버깅능력
 
++ UI/UX 에대한 이해
++ MVVM 패턴에대한 이해
++ MVC 패턴에대한 이해
++ MVP 패턴에대한 이해
++ DBMS 에대한 이해
 
+우대사항
++ TDD 및 테스트코드
++ DI
++ RXjava
+
+## 업무도구
++ Jira
++ Notion
++ Gitlab
++ Zeplin
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
