@@ -93,7 +93,7 @@
 + Developing Android Apps with Kotlin (video based) [📌](https://classroom.udacity.com/courses/ud9012)  
 + Kotlin Bootcamp (Codelab based) [📌](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
-## Naver Connect boostcourse android (video based) > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
+## Naver Connect boostcourse android (video based) > [📌](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 안드로이드 기본내용 복습하기(java)
 ```
 단순하게 기능을 구현하는것은 찾아보면서 하면 그리 어렵지 않지만, 단일기능들을 묶어서 하나의 서비스로 만들기 위해선  
@@ -120,7 +120,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ```
 </details>
 
-## Jump to Java > [Link](https://wikidocs.net/book/31)
+## Jump to Java > [📌](https://wikidocs.net/book/31)
 👍 자바 기본내용 복습하기
 + [Other site](https://eskeptor.tistory.com/28?category=928923)
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
@@ -158,7 +158,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 네트워크(POST 와 GET)
 + Garbage Collection(자바 메모리관리)
 
-## 실무능력(자격요건) 배양하기[자격요건 / 우대사항]
+## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 
+### 위에서 Codelab기반 자료들에 있는것들 부터 확인해서 공부
 + 4대 Component 에대한 정확한 이해
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
