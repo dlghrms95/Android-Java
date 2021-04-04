@@ -28,7 +28,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking  [2021-04-05] 예정</summary>
+  <details><summary>4. Networking  [2021-04-06] 예정</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -108,8 +108,8 @@
 + [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
-+ [2021-04-03] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), Api ✔
-+ [2021-04-04 예정] : DB, SQL, Table, Helper
++ [2021-04-04 ] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), Api ✔
++ [2021-04-05 예정] : DB, SQL, Table, Helper
 <details><summary>[2021-04-04 예정] 네트워킹 특강</summary>
 
 ```
