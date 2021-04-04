@@ -158,6 +158,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + init
 + 객체 지향
 + 네트워크(POST 와 GET)
++ Garbage Collection(자바 메모리관리)
 
 ## 실무능력(자격요건) 배양하기[자격요건 / 우대사항]
 + 4대 Component 에대한 정확한 이해
