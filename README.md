@@ -1,6 +1,6 @@
-## Android Roadmap > [Link](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
+## Android Roadmap > [Click📌](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
 👍 공부해야 할 부분, 방향 탐색가능
-## Google Android Training Courses > [Link](https://developer.android.com/courses?hl=ko)
+## Google Android Training Courses > [📌](https://developer.android.com/courses?hl=ko)
 👍 근본
 ```
 미처 신경쓰지 않고 지나간 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋은 사이트임.  
@@ -10,7 +10,7 @@
 입문,중급,고급까지 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯.  
 선택과 집중 느낌으로 필요한 부분 뽑아서 들어도 될듯함
 ```
-### - Android Beginner(video based) [>](https://classroom.udacity.com)
+### - Android Beginner(video based) [📌](https://classroom.udacity.com)
 
 <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
@@ -44,13 +44,7 @@
   + LESSON 4 : Loading Data Using CusorLoader
   + PROJECT : Inventory App</details>  
 
-### - Advanced Android App Development (video based) [>](https://www.udacity.com/course/advanced-android-app-development--ud855)
-
-### - Developing Android Apps with Kotlin (video based) [>](https://classroom.udacity.com/courses/ud9012)
-
-### - Kotlin Bootcamp (Codelab based) [>](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)
-
-### - Android Intermediate (Codelab based)
+### - Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
   <details><summary>1. Unit 1: Get started</summary>
   
   + LESSON 1 : Build app(interactive UI, layout editor, Text and scrolling view)
@@ -70,7 +64,7 @@
   + LESSON 1 : SharedPreferences and settings
   + LESSON 2 : Storing data with Room(Room, LiveData, and ViewModel, Deleting data from a Room database)</details>  
 
-### - Advanced (Codelab based)
+### - Advanced (Codelab based) [📌](https://developer.android.com/courses/advanced-training/overview?hl=ko)
   <details><summary>1. Unit 1: Expand the user experience</summary>
 
   + LESSON 1 : Fragments
@@ -94,6 +88,10 @@
   + LESSON 2 : Canvas
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
+### <details><summary> Video Based Android</summary>
++ Advanced Android App Development (video based) [📌](https://www.udacity.com/course/advanced-android-app-development--ud855)  
++ Developing Android Apps with Kotlin (video based) [📌](https://classroom.udacity.com/courses/ud9012)  
++ Kotlin Bootcamp (Codelab based) [📌](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
 ## Naver Connect boostcourse android (video based) > [Link](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 안드로이드 기본내용 복습하기(java)
