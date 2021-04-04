@@ -160,12 +160,21 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 네트워크(POST 와 GET)
 
 ## 실무능력(자격요건) 배양하기[자격요건 / 우대사항]
-+ Component 에대한 정확한 이해
-+ Mobile DB(Sqlite, Room, ...)
++ 4대 Component 에대한 정확한 이해
++ Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
-+ Socket 통신, RESTApi, Retrofit 
-+ Multi Thread 
++ API서버 비동기 연동
++ RESTApi, RESTFul API, Retrofit(서버와 통신) > Rx, Coroutines(받아온 데이터의 비동기처리)
+  (기존에 자바로작성된 코드들을 전부 다 코틀린으로 바꿀수는 없어서 Rxjava쓰는듯 함)
++ DataBinding - livedata
++ Networking with Multi Threading 
 + 디버깅능력
++ Jetpack ACC(DataBinding, LiveData, ViewModel, LifeCycle ...)
++ 이미지처리(Picaso, Glide)
++ Firebase
++ DI(Dependency Injection 의존성주입)
++ RecyclerView - Adapter parsing
++ Gradle Build 구성
 
 + UI/UX 에대한 이해
 + MVVM 패턴에대한 이해
@@ -179,10 +188,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + RXjava
 
 ## 업무도구
-+ Jira
-+ Notion
-+ Gitlab
-+ Zeplin
++ 디자인 툴 : Figma, Zeplin
++ 협업 툴 : Slack, Trello, Notion, Git, Jira
+
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
