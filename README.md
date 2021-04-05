@@ -46,9 +46,9 @@
 
 <details><summary>👉 MORE Video Lecture</summary>
   
-  + Advanced Android App Development (video based) [📌](https://www.udacity.com/course/advanced-android-app-development--ud855)  
-  + Developing Android Apps with Kotlin (video based) [📌](https://classroom.udacity.com/courses/ud9012)  
-  + Kotlin Bootcamp (Codelab based) [📌](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
+  + [Advanced Android App Development (video based)](https://www.udacity.com/course/advanced-android-app-development--ud855)  
+  + [Developing Android Apps with Kotlin (video based)](https://classroom.udacity.com/courses/ud9012)  
+  + [Kotlin Bootcamp (Codelab based)](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
 ### - Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
   <details><summary>1. Unit 1: Get started</summary>
