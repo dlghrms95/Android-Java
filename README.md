@@ -44,6 +44,12 @@
   + LESSON 4 : Loading Data Using CusorLoader
   + PROJECT : Inventory App</details>  
 
+<details><summary>👉 MORE Video Lecture</summary>
+  
+  + Advanced Android App Development (video based) [📌](https://www.udacity.com/course/advanced-android-app-development--ud855)  
+  + Developing Android Apps with Kotlin (video based) [📌](https://classroom.udacity.com/courses/ud9012)  
+  + Kotlin Bootcamp (Codelab based) [📌](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
+
 ### - Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
   <details><summary>1. Unit 1: Get started</summary>
   
@@ -88,10 +94,6 @@
   + LESSON 2 : Canvas
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
-### <details><summary> Video Based Android</summary>
-+ Advanced Android App Development (video based) [📌](https://www.udacity.com/course/advanced-android-app-development--ud855)  
-+ Developing Android Apps with Kotlin (video based) [📌](https://classroom.udacity.com/courses/ud9012)  
-+ Kotlin Bootcamp (Codelab based) [📌](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
 ## Naver Connect boostcourse android (video based) > [📌](https://www.boostcourse.org/mo316/joinLectures/13164)
 👍 안드로이드 기본내용 복습하기(java)
