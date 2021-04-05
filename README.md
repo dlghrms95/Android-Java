@@ -108,9 +108,9 @@
 + [2021-03-27] : Fragment, ActionBar, Tab, Viewpager, TitleStrip, NavigationDrawer ✔
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
-+ [2021-04-04] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), API[📌](https://github.com/h0keun/API) ✔
++ [2021-04-04] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), ImageLoad & API [📌](https://github.com/h0keun/API) ✔
 + [2021-04-05 예정] : DB, SQL, Table, Helper + RecyclerView(1more)
-<details><summary>[2021-04-05 예정] 네트워킹 특강</summary>
+<details><summary>[2021-04-05] 네트워킹 특강 ✔</summary>
 
 ```
 서버와의 통신이 필요한 앱에 적용하는 일반적인 네트워킹 방법  
@@ -118,7 +118,8 @@ Thread, AsyncTask, Gson 정리 및 Node.js를 이용한 클라우드 서버 구�
 3-tier C/S 모델, P2P 모델, Node.js를 이용한 소켓 서버 구성(net 패키지)  
 STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등  
 네트워킹 개요 ~ 소켓 사용 ~ 웹 사용 ~ 비동기 처리 ~ 웹을위한 Volley, Gson ~ 
-이미지 업로드/다운로드 ~ 웹소켓을 이용한 메시징 ~ YouTube 실시간 등
+이미지 업로드/다운로드 ~ 웹소켓을 이용한 메시징 ~ YouTube 실시간 등  
+코드를 어떻게 짜야한다는 강의가아니라 흐름이 어떻게 되는지에 대한 설명
 ```
 </details>
 
