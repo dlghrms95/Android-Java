@@ -167,7 +167,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
-+ RESTApi, RESTFul API, Retrofit(서버와 통신) > Rx, Coroutines(받아온 데이터의 비동기처리)
++ RESTApi, RESTFul API, Retrofit(서버와 통신) > Rx, Coroutines(받아온 데이터의 비동기처리)  
   (기존에 자바로작성된 코드들을 전부 다 코틀린으로 바꿀수는 없어서 Rxjava를 사용하기도 하는듯)
 + DataBinding - livedata
 + Networking with Multi Threading 
@@ -178,14 +178,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + DI(Dependency Injection 의존성주입)
 + RecyclerView - Adapter parsing
 + Gradle Build 구성
-
 + UI/UX 에대한 이해
 + MVVM 패턴에대한 이해
 + MVC 패턴에대한 이해
 + MVP 패턴에대한 이해
 + DBMS 에대한 이해
-
-우대사항
 + TDD 및 테스트코드
 + DI
 + RXjava
