@@ -7,7 +7,7 @@
 안드로이드 기능에 대해서 자바의 원초적인 부분으로부터 설명해주며, 공식문서를 참조해서 설명해주는점이 장점.  
 근데 그래서 그런지 알던것도 제대로 이해한게 아닌지라 어려운거같이 느껴지고 영어라 조콤 불편함.  
 최신강의영상이 아니라서 이 내용들을 기반으로 개선된 방법들 찾아서 같이 공부해야함.  
-입문,중급,고급까지 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯.  
+수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯.  
 선택과 집중 느낌으로 필요한 부분 뽑아서 들어도 될듯함
 ```
 ### - Android Beginner(video based) [📌](https://classroom.udacity.com)
@@ -28,7 +28,7 @@
   + LESSON 5 : Activity Lifecycle and Audio Playback
   + LESSON 6 : Fragment
   + PROJECT : Tour Guide App</details>
-  <details><summary>4. Networking  [2021-04-06] 예정</summary>
+  <details><summary>4. Networking  [2021-04-07] 예정</summary>
   
   + LESSON 1 : JSON Parsing
   + LESSON 2 : HTTP Networking
@@ -36,7 +36,7 @@
   + LESSON 4 : Book Listing App
   + LESSON 5 : Preferences
   + PROJECT : News App</details>
-  <details><summary>5. Data Storage  [2021-04-06] 예정</summary>
+  <details><summary>5. Data Storage  [2021-04-07] 예정</summary>
   
   + LESSON 1 : Database Basics
   + LESSON 2 : Using a Database in an Android App
@@ -109,7 +109,7 @@
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
 + [2021-04-04] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), ImageLoad & API [📌](https://github.com/h0keun/API) ✔
-+ [2021-04-05 예정] : DB, SQL, Table, Helper + RecyclerView(1more)
++ [2021-04-06 예정] : DB, SQL, Table, Helper + RecyclerView(1more)
 <details><summary>[2021-04-05] 네트워킹 특강 ✔</summary>
 
 ```
@@ -165,7 +165,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Garbage Collection(자바 메모리관리)
 
 ## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 
-### 위에서 Codelab기반 자료들에 있는것들 부터 확인해서 공부
+### 위에서 Codelab기반 자료들에 있는것들 부터 확인해서 공부[Google 공식이기 때문에 가장 정확하다고 볼 수 있음!]
 + 4대 Component 에대한 정확한 이해
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
