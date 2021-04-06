@@ -242,3 +242,15 @@ https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%E
   3️⃣ Android 내용정리 및 공부 : 1 ~ 2 시간  
   4️⃣ Library 에대한 부분 : 1 ~ 2 시간  
   5️⃣ 개인 프로젝트 : 윗부분들에서 학습한 내용 바탕으로 탄탄한 앱 만들기 1 ~ 2시간
+  
+### Android Developers [📌](https://developer.android.com/)
+안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
+
+### Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
+안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
+
+### Jetpack [📌](https://developer.android.com/jetpack)
+DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트(Architecture / UI / Behavior / Foundation)
+
+### Android DOC [📌](https://developer.android.com/docs)
+안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
