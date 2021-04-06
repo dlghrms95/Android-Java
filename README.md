@@ -235,3 +235,10 @@ https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%8
 https://sisparang.tistory.com/20  
 https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966  
 
+
+### 1 DAY 시간배분  
+  1️⃣ Kotlin : 3~4 시간
+  2️⃣ JAVA 내용정리 및 공부 : 1~2 시간 
+  3️⃣ Android 내용정리 및 공부 : 1~2 시간
+  4️⃣ Library 에대한 부분 : 1~2 시간
+  5️⃣ 개인 프로젝트 : 윗부분들에서 학습한 내용 바탕으로 탄탄한 앱 만들기 1~2시간
