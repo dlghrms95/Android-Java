@@ -222,6 +222,14 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + ...
 + ...
 
-
-https://github.com/jojoldu/junior-recruit-scheduler
-
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner  
+https://github.com/jojoldu/junior-recruit-scheduler  
+https://woovictory.github.io/all-categories/  
+https://github.com/WooVictory/Ready-For-Tech-Interview  
+https://github.com/gyoogle/tech-interview-for-developer  
+https://mangkyu.tistory.com/88  
+https://sas-study.tistory.com/53  
+https://juyoung-1008.tistory.com/56  
+https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0  
+https://sisparang.tistory.com/20  
+https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966  
