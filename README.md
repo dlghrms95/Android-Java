@@ -147,6 +147,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Thread클래스와 Runnable인터페이스
 + Custom UI
 + findviewbyid vs viewbinding
++ realm 
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
