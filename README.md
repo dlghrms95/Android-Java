@@ -237,6 +237,8 @@ https://sisparang.tistory.com/20
 https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966  
 
 
+🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
+
 ### 1 DAY 시간배분  
   1️⃣ Kotlin : 3 ~ 4 시간  
   2️⃣ JAVA 내용정리 및 공부 : 1 ~ 2 시간  
