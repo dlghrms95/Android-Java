@@ -139,6 +139,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [DataBinding - LiveData - MVVM]() 예정
++ [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
 + Fragment with Interface
 + Intent(implicit, explicit)
