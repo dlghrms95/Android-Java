@@ -14,7 +14,7 @@ findViewById를 쓰지않고, xml의 view component에 접근하는 object를 �
   + id가 title인 TextView
   + id가 click인 Button
 위 view들은 Activity에서 다음과 같이 사용이 가능하다.(디테일한 부분은 공식문서를 참조하자)
-```JAVA
+```KOTLIN
 override fun onCreate(savedInstanceState: Bundle?) { 
     super.onCreate(savedInstanceState) 
     val binding = ActivityHokeunBinding.inflate(layoutInflater) 
