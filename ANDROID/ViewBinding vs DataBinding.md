@@ -54,6 +54,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 💡 결론 : 위 사항을 고려할 때 일부 사례에서 프로젝트에 뷰 바인딩과 데이터 바인딩을 모두 사용하는 것이 가장 좋다. 고급 기능이 필요한 레이아웃에는 데이터 바인딩을, 고급 기능이 필요 없는 레이아웃에는 뷰 바인징을 사용할 수 있다.
   
+<img src="https://user-images.githubusercontent.com/63087903/113968206-9abf0800-986d-11eb-9eca-7fc48b27f6e7.png" width="550" height="250">
   
 ### 참조
 [ViewBinding 공식문서](https://developer.android.com/topic/libraries/view-binding)  
