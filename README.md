@@ -137,7 +137,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
-+ [ViewBinding vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
++ [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [DataBinding - LiveData - MVVM]() 예정
 + [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
@@ -149,8 +149,10 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Bundle message
 + Thread클래스와 Runnable인터페이스
 + Custom UI
-+ findviewbyid vs viewbinding
+
 + realm 
++ paging library
+
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
@@ -194,6 +196,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + TDD 및 테스트코드
 + DI
 + RXjava
++ paging library
 
 ## 업무도구
 + 디자인 툴 : Figma, Zeplin
