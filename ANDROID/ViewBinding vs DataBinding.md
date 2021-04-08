@@ -46,8 +46,9 @@ override fun onCreate(savedInstanceState: Bundle?) {
 ```
 
 #### 💡 왜 사용할까?  
-레이아웃 파일에서 구성요소를 결합하면 엑티비티에서 UI프레임워크 호출을 삭제할 수 있어 파일이 더욱 단순화되고 유지관리가 편해진다. 덕분에 앱 성능이 향항되고 메모리누수 및 Null포인터 예외를 방지할 수 있다.  
-
+레이아웃 파일에서 구성요소를 결합하면 엑티비티에서 UI프레임워크 호출을 삭제할 수 있어 파일이 더욱 단순화되고 유지관리가 편해진다. 덕분에 앱 성능이 향항되고 메모리누수 및 Null포인터 예외를 방지할 수 있다. xml파일에 data를 binding(연결)해서 사용가능!  
+📍 MVVM 패턴을 구현 할 때 "LiveData" 와 함께 거의 필수적으로 사용한다!
+ 
 #### 💡 레이아웃 및 바인딩 할당 표현식  
 데이터바인딩 라이브러리는 레이아웃의 뷰를 데이터 개체와 결합하는 데 필요한 클래스를 자동으로 생성한다. 라이브러리는 imports(가져오기), variables(변수) 및 includes(포함)과 같이 레이아웃에서 사용할 수 있는 기능을 제공한다. 라이브러리의 이러한 기능은 기존 레이아웃과 원활하게 공존한다. 예를 들어 표현식에서 사용할 수 있는 결합 변수는 UI 레이아웃 루트 요소의 동위 요소인 data 요소 내에서 정의된다. 아래 예에 나와 있는 것처럼 두 요소는 모두 layout 태그로 래핑된다.
 ```KOTLIN
@@ -72,6 +73,13 @@ Android 지원 라이브러리에는 성능이 뛰어나고 테스트와 유지�
 
 #### 💡 양방향 데이터바인딩  
 속성의 데이터 변경사항을 받는 동시에 속성의 사용자 업데이트를 수신 대기하는 기능을 지원한다.
+
+#### 💡 결론  
+예제에선 단순하게 하나의 TextView를 사용하여 Text를 바인딩 하기 때문에 크게 좋아보이지 않을 수 있으나 xml에 DTO 또는 데이터 집합 클래스를 Bind 해서 해당 클래스가 변경되면 연결된 여러개의 View가 한번에 변경되기 때문에 엄청나게 편해진다. 또한 Databinding과 같이 BindingAdapter를 이용해 ImageView에 Glide, Fresco 같은 이미지 로딩 라이브러리를 이용해서 이미지를 출력을 쉽게 할 수 있고 Databinding과 찰떡궁합인 LiveData를 사용하면 Data가 실시간으로 변경될 때 View도 같이 변경되니 MVVM 패턴 구현 시 엄청나게 편리해진다.  
+  1. Databinding을 사용하면 findViewById(), 버터나이프를 쓰지 않아도 xml에 만든 View들을 자동으로 만들어 준다.  
+  2. Data가 바뀌면 알아서 바뀐 Data로 View를 변경하게 할수도 있다. (옵저블 사용시)  
+  3. RecyclerView에서 각각의 item을 세팅 해주는 작업도 xml에서 다 써주면 알아서 척척 값이 들어간다. (요거 엄청 편리합니다.)  
+  4. JakeWharton의 Butterknife가 Deprecated 되었고 구글에서 권장하므로 앞으로는 Databinding을 사용 해야한다.
 
 ## ViewBinding vs DataBinding
 뷰 바인딩과 데이터 바인딩 라이브러리 둘다 뷰를 직접 참조하는 바인딩 클래스를 생성한다. 하지만 뷰 바인딩은 보다 단순한 처리의 경우 적합하다.  
@@ -102,3 +110,4 @@ Android 지원 라이브러리에는 성능이 뛰어나고 테스트와 유지�
 [ViewBinding vs DataBinding](https://velog.io/@jaeyunn_15/AndroidViewBinding-vs-DataBinding)
 [DataBinding 공식문서](https://developer.android.com/topic/libraries/data-binding)
 [DataBinding 사용 공식문서](https://developer.android.com/topic/libraries/data-binding/start)
+[DataBinding을 ](https://velog.io/@jojo_devstory/Android-Databinding%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
