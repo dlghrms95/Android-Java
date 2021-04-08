@@ -1,3 +1,5 @@
+## ViewBinding & DataBinding
+
 the 'kotlin-android-extensions' gradle plugin is deprecated.  
 please use this migration guide (~ )  
 to start working with view binding (~ )  
