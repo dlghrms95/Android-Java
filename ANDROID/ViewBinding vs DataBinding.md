@@ -12,8 +12,8 @@ findViewById를 쓰지않고, xml의 view component에 접근하는 object를 �
 예를들어 Activity에서 사용하는 xml에 아래와 같은 항목이 있다고 가정하자
   + activity_hokeun.xml
   + id가 title인 TextView
-  + id가 click인 Button
-위 view들은 Activity에서 다음과 같이 사용이 가능하다.(디테일한 부분은 공식문서를 참조하자)
+  + id가 click인 Button  
+위 view들은 Activity에서 다음과 같이 사용이 가능하다. (디테일한 부분은 공식문서를 참조하자)
 ```KOTLIN
 override fun onCreate(savedInstanceState: Bundle?) { 
     super.onCreate(savedInstanceState) 
