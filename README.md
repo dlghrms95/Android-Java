@@ -130,7 +130,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
 ## Kotlin을 익히고 프로젝트 진행해보기
-+ [Kotlin 기본 문법]()
++ [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/tree/main/Kotlin)
 + 
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
