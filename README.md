@@ -131,7 +131,10 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ## Kotlin을 익히고 프로젝트 진행해보기
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
-+ 
++ 자바로 안드로이드를 학습하는것도 완벽하지 못한데 익숙하지 않은 언어인 코틀린을 잡고 안드로이드 공부를 하자니 어불성설 같기도하다.  
+  자바를 기반으로 안드로이드를 공부하되 코틀린에 관심을 가지고 계속 학습을 하는편이 현명할것 같다.  
+  여러가지 기능구현이나 라이브러리 사용 등, 자바로 실습하고 그 내용들을 코틀린으로 바뀌면 어떻게 바꿀수 있는지 알아보는 정도로...  
+  하는게 효율적인 측면에서 좋을듯 하다.
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
