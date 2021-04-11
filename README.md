@@ -133,11 +133,12 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
 + 
 
-## 중간중간 학습하며 정리하는 내용 - ANDROID
+## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
-+ [DataBinding - LiveData - MVVM]() 예정
++ [4대 Component 에대한 정확한 이해]
++ [DataBinding - LiveData - MVVM] 예정
 + [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
 + Fragment with Interface
@@ -153,7 +154,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + paging library
 
 
-## 중간중간 학습하며 정리하는 내용 - JAVA
+## 중간중간 학습하며 정리하는 내용 - JAVA,네트워크,DB 등 전반적인 IT지식 📝
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
@@ -171,9 +172,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 네트워크(POST 와 GET)
 + Garbage Collection(자바 메모리관리)
 
-## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 
-### 위에서 Codelab기반 자료들에 있는것들 부터 확인해서 공부[Google 공식이기 때문에 가장 정확하다고 볼 수 있음!]
-+ 4대 Component 에대한 정확한 이해
+## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기
+
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
@@ -243,7 +243,7 @@ https://sisparang.tistory.com/20
 https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966  
 
 
-🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
+### 🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
 
 ### 1 DAY 시간배분  
   1️⃣ Kotlin : 3 ~ 4 시간  
