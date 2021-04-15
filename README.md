@@ -146,7 +146,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 ](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
 + [4대 Component 에대한 정확한 이해]   ✔✔✔✔✔✔✔[2021-04-15 예정] 
-+ [MultiThread in Android]    ✔✔✔✔✔✔✔[2021-04-15 예정]
++ [Custom UI]   ✔✔✔✔✔✔✔[2021-04-15 예정]
++ Thread클래스와 Runnable인터페이스    ✔✔✔✔✔✔✔[2021-04-16 예정]
++ [MultiThread in Android]    ✔✔✔✔✔✔✔[2021-04-16 예정]
 + [DataBinding - LiveData - MVVM] 예정
 + [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
@@ -156,9 +158,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + ViewHolder
 + Junit
 + Bundle message
-+ Thread클래스와 Runnable인터페이스
-+ Custom UI
-
 + realm 
 + paging library
 
