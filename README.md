@@ -180,7 +180,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Garbage Collection(자바 메모리관리)
 + JDK, SDK, NDK
 
-## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기
+## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기  
+[단계별 로드맵 같은 느낌?](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
 
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
