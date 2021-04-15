@@ -135,7 +135,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
 + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
-+ 람다식
 + 자바로 안드로이드를 학습하는것도 완벽하지 못한데 익숙하지 않은 언어인 코틀린을 잡고 안드로이드 공부를 하자니 어불성설 같기도하다.  
   자바를 기반으로 안드로이드를 공부하되 코틀린에 관심을 가지고 계속 학습을 하는편이 현명할것 같다.  
   여러가지 기능구현이나 라이브러리 사용 등, 자바로 실습하고 그 내용들을 코틀린으로 바뀌면 어떻게 바꿀수 있는지 알아보는 정도로...  
@@ -146,7 +145,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 ](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
-+ [4대 Component 에대한 정확한 이해]
++ [4대 Component 에대한 정확한 이해]   ✔✔✔✔✔✔✔[2021-04-15 예정] 
++ [MultiThread in Android]    ✔✔✔✔✔✔✔[2021-04-15 예정]
 + [DataBinding - LiveData - MVVM] 예정
 + [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
@@ -167,14 +167,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
-+ 람다식이란??
++ [람다식이란??]   ✔✔✔✔✔✔✔[2021-04-15 예정]
 + Java 객체지향 - 캡슐화, 접근제어자
 + 클래스와 인스턴스, 클래스와 생성자, 클래스와 객체
 + getter/setter
 + 인터페이스 vs 추상클래스
 + 동기 vs 비동기
 + Rxjava : 반응형 프로그래밍(비동기처리, 콜백지옥탈출..)
-+ 람다식
 + 메소드 초기화, static
 + init
 + 객체 지향
