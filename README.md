@@ -198,9 +198,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + RecyclerView - Adapter parsing
 + Gradle Build 구성
 + UI/UX 에대한 이해
-+ MVVM 패턴에대한 이해
-+ MVC 패턴에대한 이해
++ MVC 패턴에대한 이해(웹쪽에 많이 해당한다고 들은거같음)
 + MVP 패턴에대한 이해
++ MVVM 패턴에대한 이해
 + DBMS 에대한 이해
 + TDD 및 테스트코드
 + DI
