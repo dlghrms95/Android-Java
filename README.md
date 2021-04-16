@@ -145,10 +145,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 ](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
-+ [4대 Component 에대한 정확한 이해]   ✔✔✔✔✔✔✔[2021-04-15 예정] 
-+ [Custom UI]   ✔✔✔✔✔✔✔[2021-04-15 예정]
-+ Thread클래스와 Runnable인터페이스    ✔✔✔✔✔✔✔[2021-04-16 예정]
-+ [MultiThread in Android]    ✔✔✔✔✔✔✔[2021-04-16 예정]
++ [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md)   ✔✔✔✔✔✔✔[2021-04-16 예정] 
++ [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)  ✔✔✔✔✔✔✔[2021-04-16 예정]
++ [MultiThread in Android](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)    ✔✔✔✔✔✔✔[2021-04-16 예정]
 + [DataBinding - LiveData - MVVM] 예정
 + [AAC Android Architecture Component] 
 + Inflate, LayoutInflater
@@ -166,7 +165,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
-+ [람다식이란??]   ✔✔✔✔✔✔✔[2021-04-15 예정]
++ [람다식이란??](https://github.com/h0keun/Android-Java-Kotlin/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)   ✔✔✔✔✔✔✔[2021-04-16 예정]
 + Java 객체지향 - 캡슐화, 접근제어자
 + 클래스와 인스턴스, 클래스와 생성자, 클래스와 객체
 + getter/setter
