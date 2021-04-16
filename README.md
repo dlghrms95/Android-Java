@@ -242,6 +242,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 https://github.com/Yooii-Studios/Clean-Code
 
 ## NetWork / OS / DB 등에대한 IT 전반적인 지식
+[취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner  
 https://github.com/jojoldu/junior-recruit-scheduler  
 https://woovictory.github.io/all-categories/  
