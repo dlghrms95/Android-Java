@@ -144,16 +144,17 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
-+ [xml에서 android: / app: / tools: 의 ](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
++ [xml에서 android: / app: / tools: 의 차이](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
 + [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md) 
-+ [MultiThread in Android](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)    ✔✔✔✔✔✔✔[2021-04-16 예정]
++ [MultiThread in Android](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)    ✔✔✔✔✔✔✔[2021-04-17 예정]
 + [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)  ✔✔✔✔✔✔✔[2021-04-17 예정]
-+ [DataBinding - LiveData - MVVM] 예정
++ Context ✔✔✔✔✔✔✔[2021-04-18 예정]
++ Inflate, LayoutInflater ✔✔✔✔✔✔✔[2021-04-18 예정]
++ Fragment with Interface ✔✔✔✔✔✔✔[2021-04-18 예정]
++ Intent(implicit, explicit) ✔✔✔✔✔✔✔[2021-04-18 예정]  
++ Kotlin 프로젝트 진행핸 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
++ [DataBinding - LiveData - MVVM]
 + [AAC Android Architecture Component] 
-+ Inflate, LayoutInflater
-+ Fragment with Interface
-+ Intent(implicit, explicit)
-+ Context
 + ViewHolder
 + Junit
 + Bundle message
@@ -161,7 +162,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + paging library
 
 
-## 중간중간 학습하며 정리하는 내용 - JAVA,네트워크,DB 등 전반적인 IT지식 📝
+## 중간중간 학습하며 정리하는 내용 - JAVA, 네트워크, DB 등 전반적인 IT지식 📝
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
