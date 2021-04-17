@@ -147,7 +147,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [xml에서 android: / app: / tools: 의 차이](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
 + [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md) 
 + [MultiThread](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)
-+ [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)  ✔✔✔✔✔✔✔[2021-04-17 예정]
++ [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)
 + Context ✔✔✔✔✔✔✔[2021-04-18 예정]
 + Inflate, LayoutInflater ✔✔✔✔✔✔✔[2021-04-18 예정]
 + Fragment with Interface ✔✔✔✔✔✔✔[2021-04-18 예정]
