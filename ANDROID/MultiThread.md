@@ -45,12 +45,12 @@
 이 외에 Handler를 다루거나 AsyncTask 등의 내용은 개인적으로 진행한 프로젝트에서 확인하자 [📌](https://github.com/h0keun/Thread/blob/main/README.md)
 
 ### 참고
-[안드로이드 공식 - 스레딩을 통한 성능 개선](https://developer.android.com/topic/performance/threads?hl=ko) / [안드로이드 공식 - 백그라운드 스레드에서 android 작업 실행](https://developer.android.com/guide/background/threading?hl=ko)
-[1️⃣ OS 관점에서](https://asfirstalways.tistory.com/340)
+[안드로이드 공식 - 스레딩을 통한 성능 개선](https://developer.android.com/topic/performance/threads?hl=ko) / [안드로이드 공식 - 백그라운드 스레드에서 android 작업 실행](https://developer.android.com/guide/background/threading?hl=ko)  
+[1️⃣ OS 관점에서](https://asfirstalways.tistory.com/340)  
 [2️⃣ Android 관점에서](https://m.blog.naver.com/PostView.nhn?blogId=wow2778&logNo=221016693320&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### 본글에는 참고하지는 않았지만 함께 보면 좋은 사이트
-[1️⃣](https://honbabzone.com/java/java-thread/)
-[2️⃣](https://ict-nroo.tistory.com/41)
-[3️⃣](https://recipes4dev.tistory.com/143?category=768056)
+[1️⃣](https://honbabzone.com/java/java-thread/)  
+[2️⃣](https://ict-nroo.tistory.com/41)  
+[3️⃣](https://recipes4dev.tistory.com/143?category=768056)  
 [4️⃣](https://developer88.tistory.com/72)
