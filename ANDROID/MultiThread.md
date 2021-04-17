@@ -51,3 +51,4 @@
 ### 본글에는 참고하지는 않았지만 함께 보면 좋은 사이트
 [1️⃣](https://honbabzone.com/java/java-thread/)
 [2️⃣](https://ict-nroo.tistory.com/41)
+[3️⃣](https://recipes4dev.tistory.com/143?category=768056)
