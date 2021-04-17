@@ -154,6 +154,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Intent(implicit, explicit) ✔✔✔✔✔✔✔[2021-04-18 예정]  
 + Kotlin 프로젝트 진행핸 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
 + [DataBinding - LiveData - MVVM]
++ Android Jetpack (ViewModel, LiveData, DataBinding)
++ Restful api, Okhttp, Retrofit
 + [AAC Android Architecture Component] 
 + ViewHolder
 + Junit
