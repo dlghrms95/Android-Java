@@ -96,4 +96,5 @@ onDraw()에서는 개발자가 원하는대로 구현할 수 있는 Canvas를 �
 [3️⃣](https://polyglot-programming.tistory.com/12)  
 
 ### 함께 보면 좋을 사이트
+https://gun0912.tistory.com/38
 
