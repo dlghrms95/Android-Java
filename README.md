@@ -153,6 +153,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Fragment with Interface](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Fragment%20%26%20Interface.md) ✔✔✔✔✔✔✔[2021-04-18 예정]
 + [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md) ✔✔✔✔✔✔✔[2021-04-18 예정]  
 + Kotlin 프로젝트 진행핸 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
++ 생명주기에대해 상세하게 
 + [DataBinding - LiveData - MVVM]
 + Android Jetpack (ViewModel, LiveData, DataBinding)
 + Restful api, Okhttp, Retrofit
