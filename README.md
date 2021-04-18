@@ -189,7 +189,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Garbage Collection(자바 메모리관리)
 + JDK, SDK, NDK
 
-## 개인적으로 좋아하는 사이트 [📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+## 개인적으로 좋아하는 사이트
+[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+[📌](https://codechacha.com/ko/android/)  
 그냥 습관적으로 계속 보자,,
 
 ## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기  
