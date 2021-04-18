@@ -33,7 +33,7 @@ intent를 통해 다른 애플리케이션의 엑티비티를 호출하는것이
 [안드로이드 4대 컴포넌트](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Android-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)  
 [안드로이드 애플리케이션 구조](https://kairo96.gitbooks.io/android/content/ch2.3.html)
 
-+ 다음은 본문에 작성하지 않았지만 참고하면 좋을 사이트이다.
-[Activity 상세하게 알아보기](https://juyoung-1008.tistory.com/35)  
++ 다음은 본문에 작성하지 않았지만 참고하면 좋을 사이트이다.  
+[Activity 상세하게 알아보기](https://juyoung-1008.tistory.com/35)    
 [Service 상세하게 알아보기](https://juyoung-1008.tistory.com/50?category=685321)  
 
