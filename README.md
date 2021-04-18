@@ -148,8 +148,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md) 
 + [MultiThread](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)
 + [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)
-+ [Context](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Context.md) ✔✔✔✔✔✔✔[2021-04-18 예정]
-+ [Inflate, LayoutInflater](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Inflate%20%26%20LayoutInflater.md) ✔✔✔✔✔✔✔[2021-04-18 예정]
++ [Context](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Context.md)
++ [Inflate, LayoutInflater](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Inflate%20%26%20LayoutInflater.md)
 + [Fragment with Interface](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Fragment%20%26%20Interface.md) ✔✔✔✔✔✔✔[2021-04-18 예정]
 + [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md) ✔✔✔✔✔✔✔[2021-04-18 예정]  
 + Kotlin 프로젝트 진행핸 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
