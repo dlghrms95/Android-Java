@@ -150,7 +150,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)
 + [Context](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Context.md)
 + [Inflate, LayoutInflater](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Inflate%20%26%20LayoutInflater.md)
-+ [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md) ✔✔✔✔✔✔✔[2021-04-18 예정]  
++ [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md)  
 
 + naverboostcourse 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
 + Kotlin 프로젝트 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
