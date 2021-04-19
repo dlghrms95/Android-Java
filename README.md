@@ -287,6 +287,8 @@ https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%E
 ### Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
 + [Ctrl + Alt + L] = 코드 정렬 
++ [주요 단축키](https://nittaku.tistory.com/60)
+
 ### Jetpack [📌](https://developer.android.com/jetpack)
 DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트(Architecture / UI / Behavior / Foundation)
 
