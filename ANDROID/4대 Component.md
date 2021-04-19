@@ -27,4 +27,4 @@ intent를 통해 다른 애플리케이션의 엑티비티를 호출하는것이
 + 다음은 본문에 작성하지 않았지만 참고하면 좋을 사이트이다.  
 [Activity 상세하게 알아보기](https://juyoung-1008.tistory.com/35)    
 [Service 상세하게 알아보기](https://juyoung-1008.tistory.com/50?category=685321)  
-
+[Android MVP 무작정 따라하기](https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/)
