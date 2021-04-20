@@ -138,6 +138,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [companion object / private const val] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [set(value){field = value ... }] ✔✔✔✔✔✔✔[2021-04-2? 예정]
++ [init {}] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + 자바로 안드로이드를 학습하는것도 완벽하지 못한데 익숙하지 않은 언어인 코틀린을 잡고 안드로이드 공부를 하자니 어불성설 같기도하다.  
   자바를 기반으로 안드로이드를 공부하되 코틀린에 관심을 가지고 계속 학습을 하는편이 현명할것 같다.  
