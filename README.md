@@ -135,6 +135,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
 + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
++ [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]
++ [companion object / private const val] ✔✔✔✔✔✔✔[2021-04-2? 예정]
++ [set(value){field = value ... }] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + 자바로 안드로이드를 학습하는것도 완벽하지 못한데 익숙하지 않은 언어인 코틀린을 잡고 안드로이드 공부를 하자니 어불성설 같기도하다.  
   자바를 기반으로 안드로이드를 공부하되 코틀린에 관심을 가지고 계속 학습을 하는편이 현명할것 같다.  
@@ -155,7 +158,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 + naverboostcourse 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
 + Kotlin 프로젝트 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
-+ 
+
++ AppCompat ?? ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + 생명주기에대해 상세하게  ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + ViewModel
 + [Activity간, Fragment간 통신](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Fragment%20%26%20Interface.md) ✔✔✔✔✔✔✔[2021-04-2? 예정]
@@ -288,6 +292,7 @@ https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%E
 ### Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
 + [Ctrl + Alt + L] = 코드 정렬 
++ [Shrift + F6] = 변수명 한번에 다바꿀 때
 + [주요 단축키](https://nittaku.tistory.com/60)
 
 ### Jetpack [📌](https://developer.android.com/jetpack)
