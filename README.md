@@ -216,7 +216,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Jetpack ACC(DataBinding, LiveData, ViewModel, LifeCycle ...)
 + 이미지처리(Picaso, Glide)
 + Firebase
-+ DI(Dependency Injection 의존성주입)
++ DI(Dependency Injection 의존성주입) : Dagger-Hilt
++ kotlin + Coroutines
 + RecyclerView - Adapter parsing
 + Gradle Build 구성
 + UI/UX 에대한 이해
@@ -225,7 +226,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + MVVM 패턴에대한 이해
 + DBMS 에대한 이해
 + TDD 및 테스트코드
-+ DI
 + RXjava
 + paging library
 
@@ -247,6 +247,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Realm
 + Dagger : 의존성 주입 라이브러리
 + ButterKnife : DataBinding이나 Kotlin 사용시 큰 필요성 없음 예전에 많이썻던 라이브러리
++ Jecpack
++ Lottie : implementing animations
++ OkHTTP : implementing interceptor, logging web server
++ Dagger-Hilt : dependency injection
++ Koin : dependency injection
 + DataBinding
 + RoomDB : sqlite 보다 업글버전 구글이 권장함
 + EventBUs : 컴포넌트간 통신을 간단하게 해주는 라이브러리
