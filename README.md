@@ -133,12 +133,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ## Kotlin - 프로젝트 진행하며 익히기
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)
-+ What I Learned - Lotto generator [📝]() 👈 click
-+ What I Learned - Secret Diary  [📝]()
-+ What I Learned - Calculator  [📝]()
-+ What I Learned - Photo Frame  [📝]()
-+ What I Learned - Voice Recorder  [📝]()
-+ What I Learned - web Browser  [📝]()
++ What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
++ What I Learned - Secret Diary  [📝](https://github.com/h0keun/Secret_Diary)
++ What I Learned - Calculator  [📝](https://github.com/h0keun/Calculator)
++ What I Learned - Photo Frame  [📝](https://github.com/h0keun/Photo_frame)
++ What I Learned - Timer [📝](https://github.com/h0keun/Timer)
++ What I Learned - Voice Recorder  [📝](https://github.com/h0keun/Voice_Recoder)
++ What I Learned - web Browser  [📝](https://github.com/h0keun/Web_Browser)
 
 <details><summary>Kotlin 기록사항</summary>
   
