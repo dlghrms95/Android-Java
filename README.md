@@ -140,16 +140,16 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - Voice Recorder  [📝]()
 + What I Learned - web Browser  [📝]()
 
-<details><summary>Kotlin 기록사항</summary>  
-+ [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)  
-+ [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)  
-+ [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]  
-+ [companion object / private const val] ✔✔✔✔✔✔✔[2021-04-2? 예정]  
-+ [set(value){field = value ... }] ✔✔✔✔✔✔✔[2021-04-2? 예정]  
-+ [init {}] ✔✔✔✔✔✔✔[2021-04-2? 예정]  
-+ [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]  
-+ [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
-</details>
+<details><summary>Kotlin 기록사항</summary>
+  
+  + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
+  + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
+  + [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]
+  + [companion object / private const val] ✔✔✔✔✔✔✔[2021-04-2? 예정]
+  + [set(value){field = value ... }] ✔✔✔✔✔✔✔[2021-04-2? 예정]
+  + [init {}] ✔✔✔✔✔✔✔[2021-04-2? 예정]
+  + [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]
+  + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]</details>
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
 + [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
