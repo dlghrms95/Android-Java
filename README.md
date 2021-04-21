@@ -156,16 +156,14 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 차이](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
-+ [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md) 
++ [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md)
 + [MultiThread](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/MultiThread.md)
 + [Custom UI](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Custom%20UI.md)
 + [Context](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Context.md)
 + [Inflate, LayoutInflater](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Inflate%20%26%20LayoutInflater.md)
-+ [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md)  
-
++ [Intent(implicit, explicit)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/Intent%20(implicit%20%26%20explicit).md)
 + naverboostcourse 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
 + Kotlin 프로젝트 진행한 부분에서 공부할 내용 뽑아서 정리하기🟧🟧🟧🟧🟧🟧
-
 + AppCompat ?? ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + 생명주기에대해 상세하게  ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + ViewModel
@@ -173,15 +171,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [DataBinding - LiveData - MVVM]
 + Android Jetpack (ViewModel, LiveData, DataBinding)
 + Restful api, Okhttp, Retrofit
-+ [AAC Android Architecture Component] 
++ [AAC Android Architecture Component]
 + ViewHolder
 + Junit
 + Bundle message
-+ realm 
++ Realm
 + paging library
-
 위에 차례 순서 정해서 공부하는게 맞음 아무거나 막할게아니라 스텝에 맞게 가야함 로드맵이라던가 보고 다시 순서 
-
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA, 네트워크, DB 등 전반적인 IT지식 📝
 + [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
@@ -207,14 +203,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 [📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
 그냥 습관적으로 계속 보자,,
 
-## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기  
+## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기
 [단계별 로드맵 같은 느낌?](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
 
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
-+ RESTApi, RESTFul API, Retrofit(서버와 통신) > Rx, Coroutines(받아온 데이터의 비동기처리)  
-  (기존에 자바로작성된 코드들을 전부 다 코틀린으로 바꿀수는 없어서 Rxjava를 사용하기도 하는듯)
++ RESTApi, RESTFul API, Retrofit(서버와 통신) > Rx, Coroutines(받아온 데이터의 비동기처리), (기존에 자바로작성된 코드들을 전부 다 코틀린으로 바꿀수는 없어서 Rxjava를 사용하기도 하는듯)
 + DataBinding - livedata
 + Networking with Multi Threading 
 + 디버깅능력
@@ -237,7 +232,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## 업무도구
 + 디자인 툴 : Figma, Zeplin
 + 협업 툴 : Slack, Trello, Notion, Git, Jira
-
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
