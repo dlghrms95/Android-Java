@@ -12,7 +12,7 @@ Used trading(당근!)
 8️⃣ [2021-04-29] ✏ 위에 못한부분  
 9️⃣ [2021-04-30] ✏ 위에 못한부분
 
-## Android Roadmap > [Click📌](https://github.com/dlghrms95/android_study/blob/main/ANDROID/android_roadmap.md)
+## Android Roadmap > [Click📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
 👍 공부해야 할 부분, 방향 탐색가능
 ## Google Android Training Courses > [📌](https://developer.android.com/courses?hl=ko)
 👍 근본
@@ -166,8 +166,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
   + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]</details>
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
-+ [배포전 release 버전 바로 확인하기](https://github.com/dlghrms95/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
-+ [ScrollView vs NestedScrollView](https://github.com/dlghrms95/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
++ [배포전 release 버전 바로 확인하기](https://github.com/h0keun/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
++ [ScrollView vs NestedScrollView](https://github.com/h0keun/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 차이](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
 + [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md)
@@ -194,9 +194,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 위에 차례 순서 정해서 공부하는게 맞음 아무거나 막할게아니라 스텝에 맞게 가야함 로드맵이라던가 보고 다시 순서 
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA, 네트워크, DB 등 전반적인 IT지식 📝
-+ [Array vs List](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
-+ [int vs Integer](https://github.com/dlghrms95/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
-+ [재귀함수를 쓰는 이유](https://github.com/dlghrms95/Android-Java/tree/main/JAVA)
++ [Array vs List](https://github.com/h0keun5/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
++ [int vs Integer](https://github.com/h0keun/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
++ [재귀함수를 쓰는 이유](https://github.com/h0keun/Android-Java/tree/main/JAVA)
 + [람다식이란??](https://github.com/h0keun/Android-Java-Kotlin/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 + Java 객체지향 - 캡슐화, 접근제어자
 + 클래스와 인스턴스, 클래스와 생성자, 클래스와 객체
