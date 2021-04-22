@@ -166,8 +166,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
   + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]</details>
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
-+ [배포전 release 버전 바로 확인하기](https://github.com/h0keun/android_study/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
-+ [ScrollView vs NestedScrollView](https://github.com/h0keun/android_study/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
++ [배포전 release 버전 바로 확인하기](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
++ [ScrollView vs NestedScrollView](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
 + [xml에서 android: / app: / tools: 의 차이](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/xml%EC%97%90%EC%84%9C(android%2C%20app%2C%20tool).md)
 + [4대 Component 에대한 정확한 이해](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/4%EB%8C%80%20Component.md)
