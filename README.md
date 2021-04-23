@@ -155,6 +155,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - Voice Recorder [📝](https://github.com/h0keun/Voice_Recoder)
 + What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)
 + What I Learned - FCM [📝](https://github.com/h0keun/FCM)
++ What I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
 
 <details><summary>Kotlin 기록사항</summary>
   
