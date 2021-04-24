@@ -3,7 +3,7 @@
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
-3️⃣ [2021-04-24 토] ✏ 병원
+3️⃣ [2021-04-24 토] ✏ 병원  
 4️⃣ [2021-04-25 일] ✏ Java, Kotlin 한번쭉 보기 / 복습  
 5️⃣ [2021-04-26] Calculator ✏CodeReview & Summary / FastCampus - Alarm  
 6️⃣ [2021-04-27] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review  
