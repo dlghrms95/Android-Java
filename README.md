@@ -4,13 +4,13 @@
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
 3️⃣ [2021-04-24 토] ✏ 병원  
-4️⃣ [2021-04-25 일] ✏ Java, Kotlin 한번쭉 보기 / 복습  
-5️⃣ [2021-04-26] Calculator ✏CodeReview & Summary / FastCampus - Alarm  
-6️⃣ [2021-04-27] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review  
-7️⃣ [2021-04-28] Timer ✏CodeReview & Summary / FastCampus - Tinder  
+4️⃣ [2021-04-25 일] ✏ 병원
+5️⃣ [2021-04-26] Calculator ✏CodeReview & Summary / FastCampus - Alarm [Java, Kotlin 한번쭉 보기 / 복습]  
+6️⃣ [2021-04-27] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review [Java, Kotlin 한번쭉 보기 / 복습]  
+7️⃣ [2021-04-28] Timer ✏CodeReview & Summary / FastCampus - Tinder [Java, Kotlin 한번쭉 보기 / 복습]  
 8️⃣ [2021-04-29] Voice Recorder ✏CodeReview & Summary / FastCampus - 
-Used trading(당근!)  
-9️⃣ [2021-04-30] ✏ web Browser ✏CodeReview & Summary / FastCampus - Airbnb  
+Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]  
+9️⃣ [2021-04-30] ✏ web Browser ✏CodeReview & Summary / FastCampus - Airbnb [Java, Kotlin 한번쭉 보기 / 복습]  
 🔟 [2021-05-01 토] ✏ Java 한번쭉 보기 / 복습  
 ⏸ [2021-05-02 일] ✏ Kotlin 한번쭉 보기 / 복습
 
