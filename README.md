@@ -319,6 +319,7 @@ https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%E
 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
 + [Ctrl + Alt + L] = 코드 정렬 
 + [Shrift + F6] = 변수명 한번에 다바꿀 때
++ [Alt + Enter] = xml에서 color나 string에 리소스값 바로 추가하고 싶을 때(Extract string resource)
 + [주요 단축키](https://nittaku.tistory.com/60)
 
 ### Jetpack [📌](https://developer.android.com/jetpack)
