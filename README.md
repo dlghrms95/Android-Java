@@ -320,7 +320,10 @@ https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%E
 + [Ctrl + Alt + L] = 코드 정렬 
 + [Shrift + F6] = 변수명 한번에 다바꿀 때
 + [Alt + Enter] = xml에서 color나 string에 리소스값 바로 추가하고 싶을 때(Extract string resource)
++ [Ctrl + B = Ctrl + 클릭] = 해당 메소드의 정의로 이동
++ [Ctrl + P] = 파라미터 정보 보기
 + [주요 단축키](https://nittaku.tistory.com/60)
++ [주요 단축키2](https://c-o-e.tistory.com/20)
 
 ### Jetpack [📌](https://developer.android.com/jetpack)
 DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트(Architecture / UI / Behavior / Foundation)
