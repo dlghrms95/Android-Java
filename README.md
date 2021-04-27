@@ -1,6 +1,14 @@
-## 목차
-1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
-2. [코틀린 프로젝트](#Kotlin---프로젝트-진행하며-익히기)
+## 🚩 목차
++ [Android Roadmap](#Android-Roadmap)
++ [Naver Connect boostcourse android](#Naver-Connect-boostcourse-android)
++ [Kotlin project & study](#Kotlin---프로젝트-진행하며-익히기)
++ [Google Android Training Courses](#Google-Android-Training-Courses)
++ [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID-📝)
++ [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA,-네트워크,-DB-등-전반적인-IT지식-📝)
++ [실무에서는 어떤 기술이 필요할까?](#실무능력(자격요건)-배양하기[자격요건/우대사항]-📝)
++ [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
++ [신입개발자를 위한 지식을 공유하는 여러 사이트들](#NetWork-/-OS-/-DB-등에대한-IT-전반적인-지식을-공유하는-여러-사이트들)
++ [기타 등등](#업무도구)
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
@@ -16,10 +24,12 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
 🔟 [2021-05-01 토] ✏ Java 한번쭉 보기 / 복습  
 ⏸ [2021-05-02 일] ✏ Kotlin 한번쭉 보기 / 복습
 
-## Android Roadmap > [Click📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
-👍 공부해야 할 부분, 방향 탐색가능
-## Google Android Training Courses > [📌](https://developer.android.com/courses?hl=ko)
-👍 근본
+## Android Roadmap
+👍 공부해야 할 부분, 방향 탐색가능 > Click 👉 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
+
+
+## Google Android Training Courses
+👍 근본 > [📌](https://developer.android.com/courses?hl=ko)
 ```
 미처 신경쓰지 않고 지나간 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋은 사이트임.  
 안드로이드 기능에 대해서 자바의 원초적인 부분으로부터 설명해주며, 공식문서를 참조해서 설명해주는점이 장점.  
@@ -28,6 +38,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
 수준별로 학습할 수 있어서 차근차근 공부해나가면 공식문서 보는 영어실력도 늘고 여러방면에서 좋을듯.  
 선택과 집중 느낌으로 필요한 부분 뽑아서 들어도 될듯함
 ```
+
 ### - Android Beginner(video based) [📌](https://classroom.udacity.com)
 
 <details><summary>1. User Interface [2021-03-21] ✔</summary>
@@ -68,6 +79,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
   + [Developing Android Apps with Kotlin (video based)](https://classroom.udacity.com/courses/ud9012)  
   + [Kotlin Bootcamp (Codelab based)](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
+
 ### - Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
   <details><summary>1. Unit 1: Get started</summary>
   
@@ -87,6 +99,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
 
   + LESSON 1 : SharedPreferences and settings
   + LESSON 2 : Storing data with Room(Room, LiveData, and ViewModel, Deleting data from a Room database)</details>  
+
 
 ### - Advanced (Codelab based) [📌](https://developer.android.com/courses/advanced-training/overview?hl=ko)
   <details><summary>1. Unit 1: Expand the user experience</summary>
@@ -112,6 +125,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
   + LESSON 2 : Canvas
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
+
 
 ## Naver Connect boostcourse android
 #### 참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
@@ -143,6 +157,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ```
 </details>
 
+
 ## Kotlin - 프로젝트 진행하며 익히기
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)
 + What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
@@ -165,6 +180,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
   + [init {}] ✔✔✔✔✔✔✔[2021-04-2? 예정]
   + [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]
   + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]</details>
+
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID 📝
 + [배포전 release 버전 바로 확인하기](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
@@ -194,10 +210,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + paging library
 위에 차례 순서 정해서 공부하는게 맞음 아무거나 막할게아니라 스텝에 맞게 가야함 로드맵이라던가 보고 다시 순서 
 
-## Jump to Java > [📌](https://wikidocs.net/book/31)
-👍 자바 기본내용 복습하기
-+ [Other site](https://eskeptor.tistory.com/28?category=928923)
-+ [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA, 네트워크, DB 등 전반적인 IT지식 📝
 + [Array vs List](https://github.com/h0keun5/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
@@ -219,15 +231,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Garbage Collection(자바 메모리관리)
 + JDK, SDK, NDK
 
-## 개인적으로 맘에들었던 사이트
-[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
-[📌](https://codechacha.com/ko/android/)  
-[📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
-그냥 습관적으로 계속 보자,,
 
-## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기
-<details><summary> 📁 목록 </summary>
-  
+## 실무능력(자격요건) 배양하기[자격요건/우대사항] 📝
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
@@ -249,13 +254,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + DBMS 에대한 이해
 + TDD 및 테스트코드
 + RXjava
-+ paging library</details>
++ paging library
 
-## 업무도구
-+ 디자인 툴 : Figma, Zeplin
-+ 협업 툴 : Slack, Trello, Notion, Git, Jira
-
-## 🎈깃, 깃허브 사용법좀 확실하게 알기
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
@@ -289,8 +289,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + ...
 + ...
 
-## Clean Code
-https://github.com/Yooii-Studios/Clean-Code
 
 ## NetWork / OS / DB 등에대한 IT 전반적인 지식을 공유하는 여러 사이트들
 + [취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
@@ -307,6 +305,27 @@ https://github.com/Yooii-Studios/Clean-Code
 + [🔟](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
 + [⏸](https://github.com/Yooii-Studios/Clean-Code)
   
+  
+## 업무도구
++ 디자인 툴 : Figma, Zeplin
++ 협업 툴 : Slack, Trello, Notion, Git, Jira
+
+## Jump to Java > [📌](https://wikidocs.net/book/31)
+👍 자바 기본내용 복습하기
++ [Other site](https://eskeptor.tistory.com/28?category=928923)
++ [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
+
+## 개인적으로 맘에들었던 사이트
+[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+[📌](https://codechacha.com/ko/android/)  
+[📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
+그냥 습관적으로 계속 보자,,
+
+## 🎈깃, 깃허브 사용법좀 확실하게 알기
+
+## Clean Code
+https://github.com/Yooii-Studios/Clean-Code
+
 ### Android Developers [📌](https://developer.android.com/)
 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
 
@@ -325,3 +344,4 @@ DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위�
 
 ### Android DOC [📌](https://developer.android.com/docs)
 안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
+
