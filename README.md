@@ -7,9 +7,9 @@
 + [Google Android Training Courses](#Google-Android-Training-Courses)
 + [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
 + [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA,-네트워크,-DB-등-전반적인-IT지식)
-+ [실무에서는 어떤 기술이 필요할까?](#실무능력[자격요건]-배양하기)
++ [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
 + [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
-+ [신입개발자를 위한 지식을 공유하는 여러 사이트들](#NetWork-/-OS-/-DB-등에대한-IT-전반적인-지식을-공유하는-여러-사이트들)
++ [신입개발자를 위한 지식을 공유하는 여러 사이트들](#NetWork,-OS,-DB-등에대한-IT-전반적인-지식을-공유하는-여러-사이트들)
 + [기타 등등](#업무도구)</details>
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
@@ -234,7 +234,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + JDK, SDK, NDK
 
 
-## 실무능력[자격요건] 배양하기
+## 실무능력 배양하기
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
@@ -292,7 +292,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + ...
 
 
-## NetWork / OS / DB 등에대한 IT 전반적인 지식을 공유하는 여러 사이트들
+## NetWork, OS, DB 등에대한 IT 전반적인 지식을 공유하는 여러 사이트들
 + [취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
 + [0️⃣](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 + [1️⃣](https://github.com/jojoldu/junior-recruit-scheduler)
