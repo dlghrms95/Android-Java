@@ -1,16 +1,16 @@
 ## 🚩 목차
 <details><summary>📁펼쳐보기 </summary>
   
-+ [Android Roadmap](#Android-Roadmap)
-+ [Google Android Training Courses](#Google-Android-Training-Courses)
-+ [Naver Connect boostcourse android](#Naver-Connect-boostcourse-android)
-+ [Kotlin project & study](#Kotlin---프로젝트-진행하며-익히기)
-+ [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
-+ [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA-네트워크-OS-DB-등-전반적인-IT지식)
-+ [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
-+ [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
-+ [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
-+ [기타 등등](#업무도구)</details>
+1. [안드로이드 개발자 로드맵](#Android-Roadmap)
+2. [구글 안드로이드 교육 코스](#Google-Android-Training-Courses)
+3. [네이버 커넥트재단 안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
+4. [코틀린 프로젝트를 통해 학습하기](#Kotlin---프로젝트-진행하며-익히기)
+5. [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
+6. [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA-네트워크-OS-DB-등-전반적인-IT지식)
+7. [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
+8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
+9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
+10. [기타 등등](#업무도구)</details>
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
