@@ -1,4 +1,5 @@
-## 🚩 목차
+## <details><summary> 🚩 목차 </summary>
+  
 + [Android Roadmap](#Android-Roadmap)
 + [Naver Connect boostcourse android](#Naver-Connect-boostcourse-android)
 + [Kotlin project & study](#Kotlin---프로젝트-진행하며-익히기)
@@ -9,6 +10,7 @@
 + [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
 + [신입개발자를 위한 지식을 공유하는 여러 사이트들](#NetWork-/-OS-/-DB-등에대한-IT-전반적인-지식을-공유하는-여러-사이트들)
 + [기타 등등](#업무도구)
+</details>
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
