@@ -115,7 +115,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
   + LESSON 4 : Playing video</details>
 
 ## Naver Connect boostcourse android
-참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
+#### 참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
 👍 안드로이드 기본내용 복습하기(java)  
 🎬 완강하였지만 자주보며 각 기능들에대한 구현이 자료없이도 가능할정도로 봐야겠다.
 ```
@@ -161,7 +161,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - FCM [📝](https://github.com/h0keun/FCM)
 + What I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
 
-<details><summary>Kotlin 기록사항</summary>
+<details><summary>Kotlin 학습하기</summary>
   
   + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
   + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
