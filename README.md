@@ -1,5 +1,5 @@
 ## 목차
-1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android-(video-based))
+1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
 2. [코틀린 프로젝트](#Kotlin---프로젝트-진행하며-익히기)
 
 
@@ -114,7 +114,7 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
 
-## Naver Connect boostcourse android (video based)
+## Naver Connect boostcourse android
 참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
 👍 안드로이드 기본내용 복습하기(java)  
 🎬 완강하였지만 자주보며 각 기능들에대한 구현이 자료없이도 가능할정도로 봐야겠다.
