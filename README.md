@@ -11,20 +11,35 @@
 8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
 9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
 10. [기타 등등](#업무도구)</details>
-
-1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
-2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
-3️⃣ [2021-04-24 토] ✏ 병원 ✔✔✔✔  
-4️⃣ [2021-04-25 일] ✏ 병원 ✔✔✔✔  
-5️⃣ [2021-04-26] Calculator ✏CodeReview & Summary / FastCampus - Alarm ✔✔✔✔    
-일정 하루에서 이틀정도 뒤로 미루고 java랑 kotlin 한번쭉 정리한다음에 진행하자 특히 위에서 배운 내용들 확실히 하고 정리할부분(Room이나 Glide등 확실하게 정리)  
-6️⃣ [2021-04-27] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review [Java, Kotlin 한번쭉 보기 / 복습]  
-7️⃣ [2021-04-28] Timer ✏CodeReview & Summary / FastCampus - Tinder [Java, Kotlin 한번쭉 보기 / 복습]  
-8️⃣ [2021-04-29] Voice Recorder ✏CodeReview & Summary / FastCampus - 
+ 
+6️⃣ [2021-04-28] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review [Java, Kotlin 한번쭉 보기 / 복습]  
+7️⃣ [2021-04-29] Timer ✏CodeReview & Summary / FastCampus - Tinder [Java, Kotlin 한번쭉 보기 / 복습]  
+8️⃣ [2021-04-30] Voice Recorder ✏CodeReview & Summary / FastCampus - 
 Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]  
-9️⃣ [2021-04-30] ✏ web Browser ✏CodeReview & Summary / FastCampus - Airbnb [Java, Kotlin 한번쭉 보기 / 복습]  
-🔟 [2021-05-01 토] ✏ Java 한번쭉 보기 / 복습  
-⏸ [2021-05-02 일] ✏ Kotlin 한번쭉 보기 / 복습
+9️⃣ [2021-05-01 토] ✏ web Browser ✏CodeReview & Summary / FastCampus - Airbnb [Java, Kotlin 한번쭉 보기 / 복습]  
+🔟 [2021-05-02 일] ✏ Java 한번쭉 보기 / 복습  
+⏸ [2021-05-03 월] ✏ Kotlin 한번쭉 보기 / 복습
+
+5월달 복습내용 (코틀린 intermediate 프로젝트) 
+1. FCM
+2. Famous Saying
+3. Alarm
+4. Book Review
+5. Tinder
+6. Used trading
+7. Airbnb
+
+5월달 학습할 내용 (라이브러리 완전정복)
+1. Room 심화
+2. Glide 심화
+3. Retrofit 심화
+4. Firebase
+
+5월달 정리할 내용(심화)  
+아래에 정리못한 내용들 위주 + 실무능력 배양 위주  
+Dagger , 의존성 주입?? 등 들어만보고 뭔지 모르는 내용들 정리먼저하기  
+나는 뭔가 차례차례 완벽하게 하면서 넘어가는거보다 크게 한번다봐서 50퍼센트 이해하면  
+다음에 다시 또 전부봐서 70퍼센트 이해하고 또보고 80퍼센트... 이런식으로 학습하는게 맞는듯..
 
 ## Android Roadmap
 👍 공부해야 할 부분, 방향 탐색가능 > Click 👉 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
