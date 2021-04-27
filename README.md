@@ -20,13 +20,19 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
 🔟 [2021-05-02 일] ✏ Java 한번쭉 보기 / 복습  
 ⏸ [2021-05-03 월] ✏ Kotlin 한번쭉 보기 / 복습
 
+앞으로 계속 해야할...내용
++ Java 정리
++ Kotlin 정리
++ CS 정리
+
 5월달 복습내용 (코틀린 intermediate 프로젝트) 
+0. 코틀린 Basic 프로젝트 + NaverBoostCourse 프로젝트 총복습
 1. FCM
 2. Famous Saying
 3. Alarm
 4. Book Review
 5. Tinder
-6. Used trading
+6. Used trading >> 개인프로젝트 selfticon 
 7. Airbnb
 
 5월달 학습할 내용 (라이브러리 완전정복)
