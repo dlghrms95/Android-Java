@@ -114,7 +114,8 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
   + LESSON 3 : Animations
   + LESSON 4 : Playing video</details>
 
-## Naver Connect boostcourse android (video based) > [📌](https://www.boostcourse.org/mo316/joinLectures/13164)
+## Naver Connect boostcourse android (video based)
+참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
 👍 안드로이드 기본내용 복습하기(java)  
 🎬 완강하였지만 자주보며 각 기능들에대한 구현이 자료없이도 가능할정도로 봐야겠다.
 ```
