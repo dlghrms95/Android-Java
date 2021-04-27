@@ -2,6 +2,15 @@
 1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
 2. [코틀린 프로젝트](#Kotlin---프로젝트-진행하며-익히기)
 
+### 🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
+
+### 1 DAY 시간배분  
+  1️⃣ Kotlin : 3 ~ 4 시간  
+  2️⃣ JAVA 내용정리 및 공부 : 1 ~ 2 시간  
+  3️⃣ Android 내용정리 및 공부 : 1 ~ 2 시간  
+  4️⃣ Library 에대한 부분 : 1 ~ 2 시간  
+  5️⃣ 개인 프로젝트 : 윗부분들에서 학습한 내용 바탕으로 탄탄한 앱 만들기 1 ~ 2시간
+
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
@@ -144,11 +153,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ```
 </details>
 
-## Jump to Java > [📌](https://wikidocs.net/book/31)
-👍 자바 기본내용 복습하기
-+ [Other site](https://eskeptor.tistory.com/28?category=928923)
-+ [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
-
 ## Kotlin - 프로젝트 진행하며 익히기
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)
 + What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
@@ -199,6 +203,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Realm
 + paging library
 위에 차례 순서 정해서 공부하는게 맞음 아무거나 막할게아니라 스텝에 맞게 가야함 로드맵이라던가 보고 다시 순서 
+
+## Jump to Java > [📌](https://wikidocs.net/book/31)
+👍 자바 기본내용 복습하기
++ [Other site](https://eskeptor.tistory.com/28?category=928923)
++ [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA, 네트워크, DB 등 전반적인 IT지식 📝
 + [Array vs List](https://github.com/h0keun5/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
@@ -291,29 +300,20 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## Clean Code
 https://github.com/Yooii-Studios/Clean-Code
 
-## NetWork / OS / DB 등에대한 IT 전반적인 지식
-[취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
-https://github.com/JaeYeopHan/Interview_Question_for_Beginner  
-https://github.com/jojoldu/junior-recruit-scheduler  
-https://woovictory.github.io/all-categories/  
-https://github.com/WooVictory/Ready-For-Tech-Interview  
-https://github.com/gyoogle/tech-interview-for-developer  
-https://mangkyu.tistory.com/88  
-https://sas-study.tistory.com/53  
-https://juyoung-1008.tistory.com/56  
-https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0  
-https://sisparang.tistory.com/20  
-https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966  
-[]https://github.com/Yooii-Studios/Clean-Code)
-
-### 🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
-
-### 1 DAY 시간배분  
-  1️⃣ Kotlin : 3 ~ 4 시간  
-  2️⃣ JAVA 내용정리 및 공부 : 1 ~ 2 시간  
-  3️⃣ Android 내용정리 및 공부 : 1 ~ 2 시간  
-  4️⃣ Library 에대한 부분 : 1 ~ 2 시간  
-  5️⃣ 개인 프로젝트 : 윗부분들에서 학습한 내용 바탕으로 탄탄한 앱 만들기 1 ~ 2시간
+## NetWork / OS / DB 등에대한 IT 전반적인 지식을 공유하는 여러 사이트들
++ [취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
++ [0️⃣](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
++ [1️⃣](https://github.com/jojoldu/junior-recruit-scheduler)
++ [2️⃣](https://woovictory.github.io/all-categories/)
++ [3️⃣](https://github.com/WooVictory/Ready-For-Tech-Interview)
++ [4️⃣](https://github.com/gyoogle/tech-interview-for-developer)
++ [5️⃣](https://mangkyu.tistory.com/88)
++ [6️⃣](https://sas-study.tistory.com/53)
++ [7️⃣](https://juyoung-1008.tistory.com/56)
++ [8️⃣](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
++ [9️⃣](https://sisparang.tistory.com/20)
++ [🔟](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
++ [⏸](https://github.com/Yooii-Studios/Clean-Code)
   
 ### Android Developers [📌](https://developer.android.com/)
 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
