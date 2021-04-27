@@ -2,16 +2,6 @@
 1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
 2. [코틀린 프로젝트](#Kotlin---프로젝트-진행하며-익히기)
 
-### 🎈깃허브 사용법좀 확실하게 알기ㅡㅜㅡㅜ
-
-### 1 DAY 시간배분  
-  1️⃣ Kotlin : 3 ~ 4 시간  
-  2️⃣ JAVA 내용정리 및 공부 : 1 ~ 2 시간  
-  3️⃣ Android 내용정리 및 공부 : 1 ~ 2 시간  
-  4️⃣ Library 에대한 부분 : 1 ~ 2 시간  
-  5️⃣ 개인 프로젝트 : 윗부분들에서 학습한 내용 바탕으로 탄탄한 앱 만들기 1 ~ 2시간
-
-
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
 3️⃣ [2021-04-24 토] ✏ 병원 ✔✔✔✔  
@@ -236,8 +226,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 그냥 습관적으로 계속 보자,,
 
 ## 실무능력(자격요건) 배양하기[자격요건 / 우대사항] 📝예제를 통한 실습해보기
-[단계별 로드맵 같은 느낌?](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
-
+<details><summary> 📁 목록 </summary>
+  
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
@@ -259,11 +249,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + DBMS 에대한 이해
 + TDD 및 테스트코드
 + RXjava
-+ paging library
++ paging library</details>
 
 ## 업무도구
 + 디자인 툴 : Figma, Zeplin
 + 협업 툴 : Slack, Trello, Notion, Git, Jira
+
+## 🎈깃, 깃허브 사용법좀 확실하게 알기
 
 ## 차근차근 알아갈 내용
 👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
