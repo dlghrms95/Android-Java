@@ -1,4 +1,5 @@
-## <details><summary> 🚩 목차 </summary>
+## 🚩 목차
+<details><summary>📁펼쳐보기 </summary>
   
 + [Android Roadmap](#Android-Roadmap)
 + [Naver Connect boostcourse android](#Naver-Connect-boostcourse-android)
@@ -9,8 +10,7 @@
 + [실무에서는 어떤 기술이 필요할까?](#실무능력(자격요건)-배양하기[자격요건/우대사항]-📝)
 + [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
 + [신입개발자를 위한 지식을 공유하는 여러 사이트들](#NetWork-/-OS-/-DB-등에대한-IT-전반적인-지식을-공유하는-여러-사이트들)
-+ [기타 등등](#업무도구)
-</details>
++ [기타 등등](#업무도구)</details>
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
 2️⃣ [2021-04-23] Secret Diary ✏CodeReview & Summary / FastCampus - Famous Saying ✔✔✔✔  
