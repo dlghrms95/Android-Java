@@ -1,5 +1,5 @@
 ## 목차
-1. [안드로이드 부스트코스](Naver-Connect-boostcourse-android-(video-based))
+1. [안드로이드 부스트코스](#Naver-Connect-boostcourse-android-(video-based)->-[📌])
 
 
 1️⃣ [2021-04-22] Lotto generator ✏CodeReview & Summary / FastCampus - FCM ✔✔✔✔  
