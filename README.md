@@ -20,6 +20,8 @@ Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]
 🔟 [2021-05-02 일] ✏ Java 한번쭉 보기 / 복습  
 ⏸ [2021-05-03 월] ✏ Kotlin 한번쭉 보기 / 복습
 
+git.ignore 확인 / api key 노출되어있는것 확인해서 
+
 앞으로 계속 해야할...내용
 + Java 정리
 + Kotlin 정리
