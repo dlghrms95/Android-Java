@@ -190,7 +190,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 
 ## Kotlin - 프로젝트 진행하며 익히기
-+ 코틀린 공식사이트 [📌](https://kotlinlang.org/)
++ 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
+#### 🍕 STEP  1  
 + What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
 + What I Learned - Secret Diary [📝](https://github.com/h0keun/Secret_Diary)
 + What I Learned - Calculator [📝](https://github.com/h0keun/Calculator)
@@ -199,7 +200,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - Voice Recorder [📝](https://github.com/h0keun/Voice_Recoder)
 + What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)
 
-
+#### 🍕 STEP  2  
 + I Learned - FCM [📝](https://github.com/h0keun/FCM)
 + I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
 + I Learned - Alarm
