@@ -207,7 +207,9 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + I Learned - 이거 프로젝트명말고 뭐 공부한건지로..
 
 
-#### <details><summary> 🍕 Kotlin 기록하며 학습하기 </summary>
+#### 🍕 Kotlin 기록하며 학습하기 
+<details><summary> 📚 </summary>
+  
   + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
   + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
   + [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]
@@ -215,8 +217,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
   + [set(value){field = value ... }] ✔✔✔✔✔✔✔[2021-04-2? 예정]
   + [init {}] ✔✔✔✔✔✔✔[2021-04-2? 예정]
   + [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]
-  + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
-</details>
+  + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]</details>
 
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
