@@ -11,31 +11,37 @@
 8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
 9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
 10. [기타 등등](#업무도구)</details>
- 
-6️⃣ [2021-04-28] Photo Frame ✏CodeReview & Summary / FastCampus - Book Review [Java, Kotlin 한번쭉 보기 / 복습]  
-7️⃣ [2021-04-29] Timer ✏CodeReview & Summary / FastCampus - Tinder [Java, Kotlin 한번쭉 보기 / 복습]  
-8️⃣ [2021-04-30] Voice Recorder ✏CodeReview & Summary / FastCampus - 
-Used trading(당근!) [Java, Kotlin 한번쭉 보기 / 복습]  
-9️⃣ [2021-05-01 토] ✏ web Browser ✏CodeReview & Summary / FastCampus - Airbnb [Java, Kotlin 한번쭉 보기 / 복습]  
-🔟 [2021-05-02 일] ✏ Java 한번쭉 보기 / 복습  
-⏸ [2021-05-03 월] ✏ Kotlin 한번쭉 보기 / 복습
 
-git.ignore 확인 / api key 노출되어있는것 확인해서 
+### 남은거
++ 복습해야할 부분  
+1️⃣ Photo Frame  
+2️⃣ Pomodoro Timer  
+3️⃣ Voice Recorder  
+4️⃣ web Browser  
 
-앞으로 계속 해야할...내용
++ 진행해야할 부분  
+1️⃣ Tinder  
+2️⃣ Used trading(당근!)  
+3️⃣ Airbnb  
+4️⃣ Java / Kotlin base 지식
+
+### MEMO 
+<details><summary> ✏ </summary>
+  
+  앞으로 계속 해야할...내용
 + Java 정리
 + Kotlin 정리
 + CS 정리
++ 코딩테스트?? 대기업 준비용인데 사실 난 스타트업단위에서 두루두루 배우고 싶음.  
+  그냥 안드로이드 앱개발만 하기보다 기획부터 마케팅 개발 디자인 영업 등 전부 배우고 싶음.  
+  뭔가 배부른소리지만 대기업에서 코딩을 배우면 깊이는 깊어지지만 넓이는 그렇지 못할거같은 느낌쓰..  
+  개인적으로도 개발이라는것에 눈에띄게 잘한다? 잘할 수 있다? 라는 느낌이 없음.  
+  그냥 뭔가 개발을 잘하지만 다른부분도 어느정도 잘하는 다재다능형을 지향함.  
+  나중엔 내가 오너가되야짘  
 
 5월달 복습내용 (코틀린 intermediate 프로젝트) 
-0. 코틀린 Basic 프로젝트 + NaverBoostCourse 프로젝트 총복습
-1. FCM
-2. Famous Saying
-3. Alarm
-4. Book Review
-5. Tinder
-6. Used trading >> 개인프로젝트 selfticon 
-7. Airbnb
+1. 코틀린 Basic 프로젝트 + NaverBoostCourse 프로젝트 총복습
+2. 개인프로젝트 selfticon 
 
 5월달 학습할 내용 (라이브러리 완전정복)
 1. Room 심화
@@ -47,7 +53,7 @@ git.ignore 확인 / api key 노출되어있는것 확인해서
 아래에 정리못한 내용들 위주 + 실무능력 배양 위주  
 Dagger , 의존성 주입?? 등 들어만보고 뭔지 모르는 내용들 정리먼저하기  
 나는 뭔가 차례차례 완벽하게 하면서 넘어가는거보다 크게 한번다봐서 50퍼센트 이해하면  
-다음에 다시 또 전부봐서 70퍼센트 이해하고 또보고 80퍼센트... 이런식으로 학습하는게 맞는듯..
+다음에 다시 또 전부봐서 70퍼센트 이해하고 또보고 80퍼센트... 이런식으로 학습하는게 맞는듯..</details>
 
 ## Android Roadmap
 👍 공부해야 할 부분, 방향 탐색가능 > Click 👉 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
