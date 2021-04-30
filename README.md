@@ -192,8 +192,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - Timer [📝](https://github.com/h0keun/Timer)
 + What I Learned - Voice Recorder [📝](https://github.com/h0keun/Voice_Recoder)
 + What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)
-+ What I Learned - FCM [📝](https://github.com/h0keun/FCM)
-+ What I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
+
++ I Learned - FCM [📝](https://github.com/h0keun/FCM)
++ I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
++ I Learned - Alarm
++ I Learned - 이거 프로젝트명말고 뭐 공부한건지로..
 
 <details><summary>Kotlin 학습하기</summary>
   
