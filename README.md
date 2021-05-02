@@ -377,6 +377,8 @@ https://github.com/Yooii-Studios/Clean-Code
 + [Alt + Enter] = xml에서 color나 string에 리소스값 바로 추가하고 싶을 때(Extract string resource)
 + [Ctrl + B = Ctrl + 클릭] = 해당 메소드의 정의로 이동
 + [Ctrl + P] = 파라미터 정보 보기
++ [Ctrl + Alt + M] = Extract Function : 드래그한 부분 메소드로 생성해줌(ex - setOnClickListener부분 드래그해서 단축키 누르면 메소드-fun으로 알아서 지정해줌)
+  , 드래그 > 마우스우클릭 > Refactor > Fuction... 과 같은 효과  
 + [주요 단축키](https://nittaku.tistory.com/60)
 + [주요 단축키2](https://c-o-e.tistory.com/20)
 
