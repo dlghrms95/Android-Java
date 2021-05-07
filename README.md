@@ -371,6 +371,12 @@ https://github.com/Yooii-Studios/Clean-Code
 ### Android Developers [📌](https://developer.android.com/)
 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
 
+프래그먼트에서 intent쓸대 this 안받아지면 context?.let {} 로 감싸고 this 대신 it을 받으면 가능  
+ex  
+context?.let {  
+val intent = Intent(it, subActivity::class.Java)  
+...  
+}
 ### Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
 + [Ctrl + Alt + L] = 코드 정렬 
