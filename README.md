@@ -51,10 +51,10 @@
 2. 개인프로젝트 selfticon 
 
 5월달 학습할 내용 (라이브러리 완전정복)
-1. Room 심화
+1. Room 심화 > livedata > recyclerview 등 mvvm기초다지기
 2. Glide 심화
 3. Retrofit 심화
-4. Firebase
+4. Firebase 심화
 
 5월달 정리할 내용(심화)  
 아래에 정리못한 내용들 위주 + 실무능력 배양 위주  
