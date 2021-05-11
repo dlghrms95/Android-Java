@@ -218,10 +218,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)
 
 #### 🍕 STEP  2  
-+ I Learned - FCM [📝](https://github.com/h0keun/FCM)
-+ I Learned - Famous Saying [📝](https://github.com/h0keun/Famous_Saying)  
-+ I Learned - Alarm
-+ I Learned - 이거 프로젝트명말고 뭐 공부한건지로..
++ I Learned - FCM [📑](https://github.com/h0keun/FCM)
++ I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying)  
++ I Learned - Alarm [📑](https://github.com/h0keun/Alarm)
++ I Learned - Book Review [📑](https://github.com/h0keun/Book_Review)
++ I Learned - Tinder [📑](https://github.com/h0keun/Tinder)
++ I Learned - Daangn [📑](https://github.com/h0keun/daangn_market)
++ I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb)
 
 
 #### 🍕 Kotlin 기록하며 학습하기 
