@@ -209,22 +209,26 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## Kotlin - 프로젝트 진행하며 익히기
 + 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
 #### 🍕 STEP  1  
+<details><summary></summary>
+
 + What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
 + What I Learned - Secret Diary [📝](https://github.com/h0keun/Secret_Diary)
 + What I Learned - Calculator [📝](https://github.com/h0keun/Calculator)
 + What I Learned - Photo Frame [📝](https://github.com/h0keun/Photo_frame)
 + What I Learned - Timer [📝](https://github.com/h0keun/Timer)
 + What I Learned - Voice Recorder [📝](https://github.com/h0keun/Voice_Recoder)
-+ What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)
++ What I Learned - web Browser [📝](https://github.com/h0keun/Web_Browser)</details>
 
 #### 🍕 STEP  2  
+<details><summary></summary>
+  
 + I Learned - FCM [📑](https://github.com/h0keun/FCM)
 + I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying)  
 + I Learned - Alarm [📑](https://github.com/h0keun/Alarm)
 + I Learned - Book Review [📑](https://github.com/h0keun/Book_Review)
 + I Learned - Tinder [📑](https://github.com/h0keun/Tinder)
 + I Learned - Daangn [📑](https://github.com/h0keun/daangn_market)
-+ I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb)
++ I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb)</details>
 
 
 #### 🍕 Kotlin 기록하며 학습하기 
