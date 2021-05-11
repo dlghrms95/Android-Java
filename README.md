@@ -357,7 +357,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ## 신입개발자를 위한 지식을 공유하는 사이트들
 + [취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
-+ [0️⃣](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
++ [좋은](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 + [1️⃣](https://github.com/jojoldu/junior-recruit-scheduler)
 + [2️⃣](https://woovictory.github.io/all-categories/)
 + [3️⃣](https://github.com/WooVictory/Ready-For-Tech-Interview)
