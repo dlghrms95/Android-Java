@@ -413,7 +413,8 @@ DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위�
 ### Android DOC [📌](https://developer.android.com/docs)
 안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
 
-
+### [Android Guide](https://developer.android.com/guide/components/activities/intro-activities?hl=ko)
+여기도 공식사이트인데 안드로이드 컴포넌트? 등 굉장히 친절하고 잘 정리되어있다.
 
 프래그먼트에서 intent쓸대 this 안받아지면 context?.let {} 로 감싸고 this 대신 it을 받으면 가능  
 ex  
