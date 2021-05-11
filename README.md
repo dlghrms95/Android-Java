@@ -20,18 +20,25 @@
 
 ### 남은거
 + 복습해야할 부분  
-1️⃣ Photo Frame  
-2️⃣ Pomodoro Timer  
-3️⃣ Voice Recorder  
-4️⃣ web Browser  
-5️⃣ Tinder  
-6️⃣ Used trading(당근!)  
-7️⃣ Airbnb  
+1️⃣ Photo Frame [2021.05.11 화]  
+2️⃣ Pomodoro Timer [2021.05.11 화]  
+3️⃣ Voice Recorder [2021.05.12 수]  
+4️⃣ web Browser [2021.05.12 수]  
+5️⃣ FCM [2021.05.13 목]  
+6️⃣ Famous Saying [2021.05.13 목]  
+7️⃣ Alarm [2021.05.14 금]  
+8️⃣ Book Review [2021.05.14 금]  
+9️⃣ Tinder [2021.05.15 토]  
+🔟 daangn [2021.05.15 토]  
+⏸ Airbnb [2021.05.16 일]  
+
+🚩 위 일정 차질시에 나는 안될놈임 5월 14일 강의영상 새로 업로드되니까 그전까지 최대한 해보고 안되면 16일까지  
+  저기에 사용한 문법 기능들 전부 숙지해야함 사소한것들 일지라도 명확이 쓰이는 이유 방법등 
 
 + 진행해야할 부분  
-4️⃣ Java / Kotlin  
-5️⃣ Algorithm ??  
-6️⃣ CS, DB, Network  
+4️⃣ Java / Kotlin[북마크한 사이트랑 다운받은 PDF확인하고 정리..]  
+5️⃣ Algorithm ??[6월부터]  
+6️⃣ CS, DB, Network[북마크한 사이트 우선적으로 확인하고 정리]  
 
 ### MEMO 
 <details><summary> ✏ </summary>
