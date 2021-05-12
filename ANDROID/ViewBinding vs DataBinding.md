@@ -60,7 +60,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
                 type="com.myapp.data.ViewModel" />
         </data>
         <ConstraintLayout... /> <!-- UI layout's root element -->
-    </layout>
+</layout>
 ```
 #### 💡 식별 가능한 데이터 객체(가장 큰 장점같다)  
 데이터바인딩 라이브러리는 데이터 변경을 쉽게 식별하기 위한 클래스 및 메서드를 제공합니다. 기본 데이터 소스가 변경될 때 UI 새로고침에 관해 신경쓰지 않아도 됩니다. 변수 또는 속성을 식별 가능하게 만들 수 있습니다. 라이브러리를 통해 객체, 필드 또는 컬렉션을 식별 가능하게 만들 수 있습니다.
