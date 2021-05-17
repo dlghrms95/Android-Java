@@ -94,7 +94,6 @@ Dagger , 의존성 주입?? 등 들어만보고 뭔지 모르는 내용들 정�
 ## Android Roadmap
 👍 공부해야 할 부분, 방향 탐색가능 > Click 👉 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
 
-
 ## Google Android Training Courses
 👍 근본 > [📌](https://developer.android.com/courses?hl=ko)
 ```
@@ -253,7 +252,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 <details><summary></summary>
   
 + Learning - </details>
-
 
 #### 🍕 Kotlin 기록하며 학습하기 
 <details><summary> 📚 </summary>
