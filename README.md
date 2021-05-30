@@ -247,6 +247,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 #### 🍕 STEP  2  
 <details><summary></summary>
   
+리뷰 필요함!  
 + I Learned - FCM [📑](https://github.com/h0keun/FCM)
 + I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying)  
 + I Learned - Alarm [📑](https://github.com/h0keun/Alarm)
@@ -258,6 +259,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 #### 🍕 STEP  3  
 <details><summary></summary>
   
++ Learning - Youtube [📑](https://github.com/h0keun/youtube) 
++ Learning - Melon [📑](https://github.com/h0keun/Melon) 
 + Learning - </details>
 
 #### 🍕 Kotlin 기록하며 학습하기 
@@ -435,7 +438,7 @@ https://github.com/Yooii-Studios/Clean-Code
 + [Ctrl + B = Ctrl + 클릭] = 해당 메소드의 정의로 이동
 + [Ctrl + P] = 파라미터 정보 보기
 + [Ctrl + Alt + M] = Extract Function : 드래그한 부분 메소드로 생성해줌(ex - setOnClickListener부분 드래그해서 단축키 누르면 메소드-fun으로 알아서 지정해줌)
-  , 드래그 > 마우스우클릭 > Refactor > Fuction... 과 같은 효과  
+  , 드래그 > 마우스우클릭 > Refactor > Fuction... 과 같은 효과 = Alt + Enter 에서 선택  
 + [주요 단축키](https://nittaku.tistory.com/60)
 + [주요 단축키2](https://c-o-e.tistory.com/20)
 
