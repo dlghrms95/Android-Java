@@ -64,10 +64,11 @@ git.io 이용해보쟈
 ### 남은거
 [2021-05-26 ~ 27] : 8️⃣ Book Review, 🔟 daangn, ⏸ Airbnb > Retrofit 정리, Glide 정리  
 [2021-05-28 ~ 29] : 9️⃣ Tinder > RecyclerView 정리 / 깡샘 코틀린 pdf  
-[2021-05-29 ~ 30 ~ 31] : 이전 프로젝트 > RoomDB 정리 / 5️⃣ FCM, 6️⃣ Famous Saying, 7️⃣ Alarm / 깡샘 코틀린 pdf
+[2021-05-29 ~ 30 ~ 31] : 이전 프로젝트 > RoomDB 정리 / 5️⃣ FCM, 6️⃣ Famous Saying, 7️⃣ Alarm
 
-+ 제품을 배포/운영하며 유저 피드백에 따라 개선해 나가기
-
+[2021-06-01] : 깡샘 코틀린 pdf ✔  
+5월분 처리못함 코테하면서 계속 봐주기  
+일단은 부캠준비우선!
 
 + 진행해야할 부분  
 4️⃣ Java / Kotlin[북마크한 사이트랑 다운받은 PDF확인하고 정리..]  
