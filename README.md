@@ -391,20 +391,18 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 
 ## 신입개발자를 위한 지식을 공유하는 사이트들
-+ [취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
-+ [좋은](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-+ [1️⃣](https://github.com/jojoldu/junior-recruit-scheduler)
-+ [2️⃣](https://woovictory.github.io/all-categories/)
-+ [3️⃣](https://github.com/WooVictory/Ready-For-Tech-Interview)
-+ [4️⃣](https://github.com/gyoogle/tech-interview-for-developer)
-+ [5️⃣](https://mangkyu.tistory.com/88)
-+ [6️⃣](https://sas-study.tistory.com/53)
-+ [7️⃣](https://juyoung-1008.tistory.com/56)
-+ [8️⃣](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
-+ [9️⃣](https://sisparang.tistory.com/20)
-+ [🔟](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
-+ [⏸](https://github.com/Yooii-Studios/Clean-Code)
-  
+
+#### GitHub 사이트 4개
++ [1️⃣ 주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
++ [2️⃣ Ready for Tech Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)
++ [3️⃣ Tech Interview For Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
++ [4️⃣ Tech Interview For Developer](https://github.com/gyoogle/tech-interview-for-developer)
+
+#### 블로그
++ [5️⃣ IT 기술면접대비 & 개발자 면접 질문 - 개발 상식](https://sisparang.tistory.com/38?category=317631)
++ [6️⃣ IT 기술 면접의 단골 질문 - DB, OS, NW](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
++ [7️⃣ 괜춘](https://choheeis.github.io/newblog//categories/)
++ [8️⃣ 괜춘](https://woovictory.github.io/all-categories/)
   
 ## 업무도구
 + 디자인 툴 : Figma, Zeplin
@@ -415,7 +413,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Other site](https://eskeptor.tistory.com/28?category=928923)
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
-## 개인적으로 맘에들었던 사이트
+## 개인적으로 맘에들었던 사이트(안드로이드)
 [📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
 [📌](https://codechacha.com/ko/android/)  
 [📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
@@ -425,7 +423,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)
 
 ## Clean Code
-https://github.com/Yooii-Studios/Clean-Code
+[클린코드 스터디](https://github.com/Yooii-Studios/Clean-Code)
 
 ### Android Developers [📌](https://developer.android.com/)
 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
