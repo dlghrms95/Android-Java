@@ -425,6 +425,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ## 🎈깃, 깃허브 사용법좀 확실하게 알기
 [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)
+[Github로 협업하기](https://victorydntmd.tistory.com/91)
 
 ## Clean Code
 [클린코드 스터디](https://github.com/Yooii-Studios/Clean-Code)
