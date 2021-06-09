@@ -19,6 +19,6 @@ class Solution {
             answer += arr[i] 
         }
 
-        return answer
+        return answer 
     }
 }
