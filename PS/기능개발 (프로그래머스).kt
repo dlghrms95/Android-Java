@@ -34,6 +34,6 @@ class Solution {
             }
         }
         
-        return answer.toIntArray()
+        return answer.toIntArray() 
     }
 }
