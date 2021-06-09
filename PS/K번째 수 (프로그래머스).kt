@@ -11,6 +11,6 @@ class Solution {
             answer[i] = list[commands[i][2] - 1]
             list.clear()
         }
-        return answer
+        return answer 
     }
 }
