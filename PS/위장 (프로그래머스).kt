@@ -9,6 +9,6 @@ class Solution {
             answer *= map[key]!! + 1
         }
         answer -= 1
-        return answer
+        return answer 
     }
 }
