@@ -332,20 +332,16 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Other site](https://eskeptor.tistory.com/28?category=928923)
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
-### 🍱 개인적으로 맘에들었던 사이트(안드로이드)
-[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)    
-[📌](https://codechacha.com/ko/android/)  
-[📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
+### 🍱 개인적으로 맘에들었던 사이트 세곳 (안드로이드)[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) [📌](https://codechacha.com/ko/android/) [📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
 
 ### 🍱 깃, 깃허브 사용법좀 확실하게 알기
-[초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)  
-[Github로 협업하기](https://victorydntmd.tistory.com/91)
++ 초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)[📌](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)  
++ Github로 협업하기[📌](https://victorydntmd.tistory.com/91)
 
-### 🍱 Clean Code
-+ [클린코드 스터디](https://github.com/Yooii-Studios/Clean-Code)
+### 🍱 Clean Code 스터디 [📌](https://github.com/Yooii-Studios/Clean-Code)
 
 ### 🍱 Android Developers [📌](https://developer.android.com/)
-+ 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
+``` 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들 ```
 
 ### 🍱 Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
 ``` 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다. ```
@@ -360,26 +356,28 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [주요 단축키2](https://c-o-e.tistory.com/20)
 
 ### 🍱 Jetpack [📌](https://developer.android.com/jetpack)
-+ DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트
-  (Architecture / UI / Behavior / Foundation)
+``` 
+DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트  
+(Architecture / UI / Behavior / Foundation)
+```
 
 ### 🍱 Android DOC [📌](https://developer.android.com/docs)
-+ 안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
+``` 안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등) ```
 
 ### 🍱 Android Guide [📌](https://developer.android.com/guide/components/activities/intro-activities?hl=ko)
-+ 여기도 공식사이트인데 안드로이드 컴포넌트? 등 굉장히 친절하고 잘 정리되어있다.
+``` 여기도 공식사이트인데 안드로이드 컴포넌트? 등 굉장히 친절하고 잘 정리되어있다. ```
+</details>
 
+## ⏸ 주저리 주저리
+<details><summary> ✏ </summary>
+ 
 프래그먼트에서 intent쓸대 this 안받아지면 context?.let {} 로 감싸고 this 대신 it을 받으면 가능  
 ex  
 context?.let {  
 val intent = Intent(it, subActivity::class.Java)  
 ...  
 }
-</details>
 
-## ⏸ 주저리 주저리
-<details><summary> ✏ </summary>
-  
 ### 🍳 반성 
 우연히 유투브 코딩채널들을 둘러보다 보게된 영상이 있었는데 지금까지 공부방식이 잘못되었다는 것을 깨닳았다.  
 안드로이드 개발자로 방향을 잡고 공부한지도 6개월이 지나가는데 지난날을 나는 개발자스럽게 보내지 못했다.  
