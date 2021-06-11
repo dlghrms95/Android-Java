@@ -1,7 +1,7 @@
 ## 🚩 목차
  
 0. [주저리..주저리..](#주저리-주저리)
-1. [안드로이드 개발자 로드맵](#Android-Roadmap)
+1. [안드로이드 개발자 로드맵](#1.-Android-Roadmap)
 2. [구글 안드로이드 교육 코스](#Google-Training-Courses)
 3. [네이버 커넥트재단 안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
 4. [코틀린 프로젝트를 통해 학습하기](#Kotlin---프로젝트-진행하며-익히기)
