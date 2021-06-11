@@ -388,13 +388,13 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## 신입개발자를 위한 지식을 공유하는 사이트들
 <details><summary> ✏ </summary>
 
-### GitHub 사이트 4개
+### 🍇 GitHub 사이트 4개
 + [1️⃣ 주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 + [2️⃣ Ready for Tech Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)
 + [3️⃣ Tech Interview For Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 + [4️⃣ Tech Interview For Developer](https://github.com/gyoogle/tech-interview-for-developer)
 
-### 블로그
+### 🍇 블로그
 + [5️⃣ IT 기술면접대비 & 개발자 면접 질문 - 개발 상식](https://sisparang.tistory.com/38?category=317631)
 + [6️⃣ IT 기술 면접의 단골 질문 - DB, OS, NW](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
 + [7️⃣ 괜춘](https://choheeis.github.io/newblog//categories/)
@@ -404,34 +404,32 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ## 기타 등등
 <details><summary> ✏ </summary>
  
-### 업무도구
-
+### 🍱 업무도구
 + 디자인 툴 : Figma, Zeplin
 + 협업 툴 : Slack, Trello, Notion, Git, Jira
 
-## Jump to Java > [📌](https://wikidocs.net/book/31)
-👍 자바 기본내용 복습하기
+### 🍱 Jump to Java > [📌](https://wikidocs.net/book/31)
+``` 자바 기본내용 복습하기 ```
 + [Other site](https://eskeptor.tistory.com/28?category=928923)
 + [Other site](https://whatisthenext.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
 
-## 개인적으로 맘에들었던 사이트(안드로이드)
-[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+### 🍱 개인적으로 맘에들었던 사이트(안드로이드)
+[📌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)    
 [📌](https://codechacha.com/ko/android/)  
 [📌](https://kairo96.gitbooks.io/android/content/ch5.html)  
-그냥 습관적으로 계속 보자,,
 
-## 🎈깃, 깃허브 사용법좀 확실하게 알기
-[초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)
+### 🍱 깃, 깃허브 사용법좀 확실하게 알기
+[초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/amp/)  
 [Github로 협업하기](https://victorydntmd.tistory.com/91)
 
-## Clean Code
-[클린코드 스터디](https://github.com/Yooii-Studios/Clean-Code)
+### 🍱 Clean Code
++ [클린코드 스터디](https://github.com/Yooii-Studios/Clean-Code)
 
-### Android Developers [📌](https://developer.android.com/)
-안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
+### 🍱 Android Developers [📌](https://developer.android.com/)
++ 안드로이드 개발자 공식사이트 안드로이드 개발 관련된 최신지식들
 
-### Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
-안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다.
+### 🍱 Android 스튜디오 [📌](https://developer.android.com/studio/intro) 
+``` 안드로이드 스튜디오 사용자 가이드 및 새로운 기능 등 안드로이드 스튜디오를 사용하면서 도움이되는 정보들이 많다. ```
 + [Ctrl + Alt + L] = 코드 정렬 
 + [Shrift + F6] = 변수명 한번에 다바꿀 때
 + [Alt + Enter] = xml에서 color나 string에 리소스값 바로 추가하고 싶을 때(Extract string resource)
@@ -442,14 +440,15 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [주요 단축키](https://nittaku.tistory.com/60)
 + [주요 단축키2](https://c-o-e.tistory.com/20)
 
-### Jetpack [📌](https://developer.android.com/jetpack)
-DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트(Architecture / UI / Behavior / Foundation)
+### 🍱 Jetpack [📌](https://developer.android.com/jetpack)
++ DataBinding, LiveData, ViewModle 등 멋진 안드로이드 앱을 만들기위한 컴포턴트이자 도구 및 지침 세트
+  (Architecture / UI / Behavior / Foundation)
 
-### Android DOC [📌](https://developer.android.com/docs)
-안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
+### 🍱 Android DOC [📌](https://developer.android.com/docs)
++ 안드로이드 개발자 문서(가이드, API참조, 권장사항, 핵심 개발주제 등)
 
-### [Android Guide](https://developer.android.com/guide/components/activities/intro-activities?hl=ko)
-여기도 공식사이트인데 안드로이드 컴포넌트? 등 굉장히 친절하고 잘 정리되어있다.
+### 🍱 Android Guide [📌](https://developer.android.com/guide/components/activities/intro-activities?hl=ko)
++ 여기도 공식사이트인데 안드로이드 컴포넌트? 등 굉장히 친절하고 잘 정리되어있다.
 
 프래그먼트에서 intent쓸대 this 안받아지면 context?.let {} 로 감싸고 this 대신 it을 받으면 가능  
 ex  
@@ -458,17 +457,3 @@ val intent = Intent(it, subActivity::class.Java)
 ...  
 }
 </details>
-
-## 🚩 목차
- 
-0. [주저리..주저리..](#주저리-주저리)
-1. [안드로이드 개발자 로드맵](#Android-Roadmap)
-2. [구글 안드로이드 교육 코스](#Google-Training-Courses)
-3. [네이버 커넥트재단 안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
-4. [코틀린 프로젝트를 통해 학습하기](#Kotlin---프로젝트-진행하며-익히기)
-5. [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
-6. [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA-네트워크-OS-DB-등-전반적인-IT지식)
-7. [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
-8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
-9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
-10. [기타 등등](#업무도구)
