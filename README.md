@@ -61,6 +61,14 @@ git.io 이용해보쟈
   
 <details><summary> 수정전 내용 </summary>
 
+```
+💡FastCampus 13강 정도 남았는데 여기서 기존에 배웠던 지식들은 물론 
+  추가로 Coroutine, MVP, MVVM, DI, KOIN, Clean Architecture 등 중요한 부분
+  들에 대해서 많이 다루고 있기 때문에 이전내용들 잘 숙지하고 공부할 수 있도록 하자
+  만약 부스트캠프에 합격하면 매 주말시간 쪼개서 프로젝트 진행하여 매주 1~2강 정도는
+  수강 및 복습이 가능하도록 > 매주 1강이면 13주, 매주 2강이면 7주 2~3달 정도인데 너무 길게 잡는거 같기도 하넹
+  부캠 학습량이 어느정도일지 아직 감이 안잡혀서 그떄되서 
+```
 ### 남은거
 [2021-05-26 ~ 27] : 8️⃣ Book Review, 🔟 daangn, ⏸ Airbnb > Retrofit 정리, Glide 정리  
 [2021-05-28 ~ 29] : 9️⃣ Tinder > RecyclerView 정리 / 깡샘 코틀린 pdf  
