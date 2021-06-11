@@ -1,21 +1,7 @@
-## 🚩 목차
- 
-0. [주저리..주저리..](#주저리-주저리)
-1. [안드로이드 개발자 로드맵](#1.-Android-Roadmap)
-2. [구글 안드로이드 교육 코스](#Google-Training-Courses)
-3. [네이버 커넥트재단 안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
-4. [코틀린 프로젝트를 통해 학습하기](#Kotlin---프로젝트-진행하며-익히기)
-5. [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
-6. [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA-네트워크-OS-DB-등-전반적인-IT지식)
-7. [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
-8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
-9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
-10. [기타 등등](#업무도구)
-
 ## 주저리 주저리
 <details><summary> ✏ </summary>
   
-### 📆 반성 
+### 🍳 반성 
 우연히 유투브 코딩채널들을 둘러보다 보게된 영상이 있었는데 지금까지 공부방식이 잘못되었다는 것을 깨닳았다.  
 안드로이드 개발자로 방향을 잡고 공부한지도 6개월이 지나가는데 지난날을 나는 개발자스럽게 보내지 못했다.  
 무엇이 문제였을까?  
@@ -55,14 +41,14 @@
 제품을 배포/운영해 나가며 유저 피드백에 따라 문제를 해결하고 개선해 나가야 할 것이고,  
 개발과정에서 효율성을 높이기 위해 배포 자동화, 테스트 자동화, 버전관리 등에 대해 고민해보아야 한다.
   
-### ✏ MEMO  
+### 🍳 MEMO  
 준비들어가기 앞서 패스트캠퍼스강의는 남은부분중에 OTT - MotionLayout심화 만 하고(나머지부분은 이미 배운내용 겹치는게 많음)  
 코틀린으로 코딩테스트 준비에 몰두할것!  
 깡샘 코틀린 pdf꾸준히 챙겨보고 이전까지 프로젝트 내용들 내껄로 확실히 하기  
 Selfticon > Mvvm으로 적용해서 출시까지 완료하기
 cs지식 부담갖지말고 아래 링크사이트들 읽어보기
 
-### 부스트캠프 준비
+### 🍳 부스트캠프 준비
 6월 24일 : 1차 코딩테스트  
 7월 3일 : 2차코딩테스트  
 7월 13일 : 합격발표  
@@ -77,33 +63,32 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
   추가로 알고리즘 문제풀이하는부분에 대해 많이 접해보지 못했으니 백준이나 프로그래머스 문제풀이도
   매주 최소 3개 정도...
 ```
-### 남은거
-[2021-05-26 ~ 27] : 8️⃣ Book Review, 🔟 daangn, ⏸ Airbnb > Retrofit 정리, Glide 정리  
-[2021-05-28 ~ 29] : 9️⃣ Tinder > RecyclerView 정리 / 깡샘 코틀린 pdf  
-[2021-05-29 ~ 30 ~ 31] : 이전 프로젝트 > RoomDB 정리 / 5️⃣ FCM, 6️⃣ Famous Saying, 7️⃣ Alarm
+### 🍳 남은거
+[2021-05-26 ~ 27] : Book Review, daangn, Airbnb > Retrofit 정리, Glide 정리  
+[2021-05-28 ~ 29] : Tinder > RecyclerView 정리 / 깡샘 코틀린 pdf  
+[2021-05-29 ~ 30 ~ 31] : 이전 프로젝트 > RoomDB 정리 / FCM, Famous Saying, Alarm
 
 [2021-06-01] : 깡샘 코틀린 pdf ✔  
 5월분 처리못함 코테하면서 계속 봐주기  
 일단은 부캠준비우선!
 
 + 진행해야할 부분  
-4️⃣ Java / Kotlin[북마크한 사이트랑 다운받은 PDF확인하고 정리..]  
-5️⃣ Algorithm ??[6월부터]  
-6️⃣ CS, DB, Network[북마크한 사이트 우선적으로 확인하고 정리]
+Java / Kotlin[북마크한 사이트랑 다운받은 PDF확인하고 정리..]  
+Algorithm ??[6월부터]  
+CS, DB, Network[북마크한 사이트 우선적으로 확인하고 정리]
 
 </details>
 
-## 1. Android Roadmap
+## Android Roadmap
 <details><summary> ✏ </summary>
   
-공부해야 할 부분, 방향 탐색가능 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
+### 🥕 공부해야 할 부분, 방향 탐색가능 [📌](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/android_roadmap.md)
 </details>
 
-## 2. Google Training Courses
+## Google Training Courses
 <details><summary> ✏ </summary>
   
-### Google Android Training Courses
-👍 근본 > [📌](https://developer.android.com/courses?hl=ko)
+### 🍜 Google Android Training Courses [📌](https://developer.android.com/courses?hl=ko)
 ```
 미처 신경쓰지 않고 지나간 사소한 부분들(기초)이나 핵심 등 자바에서 필수적인 내용 상기시키기 좋은 사이트임.  
 안드로이드 기능에 대해서 자바의 원초적인 부분으로부터 설명해주며, 공식문서를 참조해서 설명해주는점이 장점.  
@@ -113,7 +98,7 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
 선택과 집중 느낌으로 필요한 부분 뽑아서 들어도 될듯함
 ```
 
-### - Android Beginner(video based) [📌](https://classroom.udacity.com)
+### 🍜 Android Beginner(video based) [📌](https://classroom.udacity.com)
 
 <details><summary>1. User Interface [2021-03-21] ✔</summary>
   
@@ -154,7 +139,7 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
   + [Kotlin Bootcamp (Codelab based)](https://developer.android.com/courses/kotlin-bootcamp/overview?hl=ko)</details>
 
 
-### - Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
+### 🍜 Android Intermediate (Codelab based) [📌](https://developer.android.com/courses/fundamentals-training/overview-v2?hl=ko)
   <details><summary>1. Unit 1: Get started</summary>
   
   + LESSON 1 : Build app(interactive UI, layout editor, Text and scrolling view)
@@ -175,7 +160,7 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
   + LESSON 2 : Storing data with Room(Room, LiveData, and ViewModel, Deleting data from a Room database)</details>  
 
 
-### - Advanced (Codelab based) [📌](https://developer.android.com/courses/advanced-training/overview?hl=ko)
+### 🍜 Advanced (Codelab based) [📌](https://developer.android.com/courses/advanced-training/overview?hl=ko)
   <details><summary>1. Unit 1: Expand the user experience</summary>
 
   + LESSON 1 : Fragments
@@ -204,11 +189,11 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
 
 ## Naver Connect boostcourse android
 <details><summary> ✏ </summary>
-  
-### 참조 [📌](https://www.boostcourse.org/mo316/joinLectures/13164)  
-👍 안드로이드 기본내용 복습하기(java)  
-🎬 완강하였지만 자주보며 각 기능들에대한 구현이 자료없이도 가능할정도로 봐야겠다.
+
 ```
+👍 안드로이드 기본내용 복습하기(java)  
+🎬 완강하였지만 자주보며 각 기능들에대한 구현이 자료없이도 가능할정도로 봐야겠다.  
+
 단순하게 기능을 구현하는것은 찾아보면서 하면 그리 어렵지 않지만, 단일기능들을 묶어서 하나의 서비스로 만들기 위해선  
 구조나 기능이 어떤과정으로 쓰이는지 등 기초적인 부분으로부터 파생되는 지식에 대한 이해가 많이 필요로 하다.  
 한국어라 부담없이 강좌를 들으면서 이해하기 좋다.
@@ -286,6 +271,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 
 ## 중간중간 학습하며 정리하는 내용 - ANDROID
+<details><summary> ✏ </summary>
+
 + [배포전 release 버전 바로 확인하기](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/release%20%EB%B2%84%EC%A0%84%20%EB%B0%94%EB%A1%9C%20%ED%99%95%EC%9D%B8.md)
 + [ScrollView vs NestedScrollView](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ScrollView%20vs%20NestedScrollView.md)
 + [ViewBinding vs findViewById vs DataBinding](https://github.com/h0keun/Android-Java-Kotlin/blob/main/ANDROID/ViewBinding%20vs%20DataBinding.md)
@@ -312,9 +299,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + Realm
 + paging library
 위에 차례 순서 정해서 공부하는게 맞음 아무거나 막할게아니라 스텝에 맞게 가야함 로드맵이라던가 보고 다시 순서 
-
+</details>
 
 ## 중간중간 학습하며 정리하는 내용 - JAVA 네트워크 OS DB 등 전반적인 IT지식
+<details><summary> ✏ </summary>
+ 
 + [Array vs List](https://github.com/h0keun5/Android-Java/blob/main/JAVA/Array%20vs%20List.md)
 + [int vs Integer](https://github.com/h0keun/Android-Java/blob/main/JAVA/int%20vs%20Integer.md)
 + [재귀함수를 쓰는 이유](https://github.com/h0keun/Android-Java/tree/main/JAVA)
@@ -333,9 +322,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + 네트워크(POST 와 GET)
 + Garbage Collection(자바 메모리관리)
 + JDK, SDK, NDK
-
+</details>
 
 ## 실무능력 배양하기
+<details><summary> ✏ </summary>
+ 
 + Mobile Rocal DB(Sqlite, Room, Realm)
 + Custom UI
 + API서버 비동기 연동
@@ -358,10 +349,11 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + TDD 및 테스트코드
 + RXjava
 + paging library
-
+</details>
 
 ## 차근차근 알아갈 내용
-👍 아래내용들 기타 등등 많이쓰는 라이브러리랑 최신라이브러리 잘 살펴보자
+<details><summary> ✏ </summary>
+
 + Retrofit : 서버와 API통신할 때 쉽게 통신할 수 있도록 도와주는 라이브러리
 + RxAndroid, Rxjava : 코틀린 도입 이후 자주쓰이는 리엑트 패러다임의 Rxjava. RxAndroid라이브러리는 Rxjava에 좀더 필요한 클래스를 추가하여 안드로이드 내에서 리엑티브 구성요소들을 편리하게 사용 가능하게 해주는 라이브러리
 + LeakCanary : 메모리 릭 체크하는 라이브러리
@@ -391,23 +383,29 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + ARcore, OpenGL ..
 + ...
 + ...
-
+</details>
 
 ## 신입개발자를 위한 지식을 공유하는 사이트들
+<details><summary> ✏ </summary>
 
-#### GitHub 사이트 4개
+### GitHub 사이트 4개
 + [1️⃣ 주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 + [2️⃣ Ready for Tech Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)
 + [3️⃣ Tech Interview For Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 + [4️⃣ Tech Interview For Developer](https://github.com/gyoogle/tech-interview-for-developer)
 
-#### 블로그
+### 블로그
 + [5️⃣ IT 기술면접대비 & 개발자 면접 질문 - 개발 상식](https://sisparang.tistory.com/38?category=317631)
 + [6️⃣ IT 기술 면접의 단골 질문 - DB, OS, NW](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)
 + [7️⃣ 괜춘](https://choheeis.github.io/newblog//categories/)
 + [8️⃣ 괜춘](https://woovictory.github.io/all-categories/)
+</details>
   
-## 업무도구
+## 기타 등등
+<details><summary> ✏ </summary>
+ 
+### 업무도구
+
 + 디자인 툴 : Figma, Zeplin
 + 협업 툴 : Slack, Trello, Notion, Git, Jira
 
@@ -459,3 +457,18 @@ context?.let {
 val intent = Intent(it, subActivity::class.Java)  
 ...  
 }
+</details>
+
+## 🚩 목차
+ 
+0. [주저리..주저리..](#주저리-주저리)
+1. [안드로이드 개발자 로드맵](#Android-Roadmap)
+2. [구글 안드로이드 교육 코스](#Google-Training-Courses)
+3. [네이버 커넥트재단 안드로이드 부스트코스](#Naver-Connect-boostcourse-android)
+4. [코틀린 프로젝트를 통해 학습하기](#Kotlin---프로젝트-진행하며-익히기)
+5. [학습하며 기록하는 Android 내용정리](#중간중간-학습하며-정리하는-내용---ANDROID)
+6. [학습하며 기록하는 전반적인 IT 지식(Java, Network, OS, DB 등)](#중간중간-학습하며-정리하는-내용---JAVA-네트워크-OS-DB-등-전반적인-IT지식)
+7. [실무에서는 어떤 기술이 필요할까?](#실무능력-배양하기)
+8. [앞으로 차근차근 알아가야할 내용들은?](#차근차근-알아갈-내용)
+9. [신입개발자를 위한 지식을 공유하는 여러 사이트들](#신입개발자를-위한-지식을-공유하는-사이트들)
+10. [기타 등등](#업무도구)
