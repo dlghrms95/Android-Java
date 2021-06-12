@@ -267,6 +267,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + TDD 및 테스트코드
 + RXjava
 + paging library
++ HOW TO DEBUGGING?
 </details>
 
 ## 8️⃣ 차근차근 알아갈 내용
