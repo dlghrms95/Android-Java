@@ -173,6 +173,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ### 🍕 Kotlin 기록하며 학습하기 
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
++ 깡샘 코틀린 pdf로 틀 잡고 해당 내용들 서치하여 정리하기!!!!!!!!!!!
 + [lateinit vs lazy (코틀린에서 초기화를 지연시킬 때 사용하는 키워드)](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/lateinit%20vs%20lazy.md)
 + [enum class] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [companion object / private const val] ✔✔✔✔✔✔✔[2021-04-2? 예정]
