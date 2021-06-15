@@ -144,6 +144,12 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 <details><summary> ✏ </summary>
 
 ### 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
+### 네이버 부스트코스 코틀린 프로그래밍 1 [📌](https://www.boostcourse.org/mo132/joinLectures/28611)
+### 네이버 부스트코스 코틀린 프로그래밍 2 [📌](https://www.boostcourse.org/mo234/joinLectures/44859)
+```
+안드로이드 개발을 코틀린으로 진행하고있긴 하지만 역시나 자바만큼 코틀린에대해서 빵꾸난 부분이 정말 많다.  
+언제가 될 지 모르겟지만.. 우선 링크..
+```
 
 ### 🍕 STEP 1
 + What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
