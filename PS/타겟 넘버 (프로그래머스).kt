@@ -27,6 +27,20 @@ class Solution {
 // 간결하게 코틀린 함수 fold, run 등 이용한 경우도 있어서
 // 다른 풀이방식들 많이 참고해봐야 할듯
 
+[0]
+class Solution {
+    fun solution(numbers: IntArray, target: Int): Int {
+        return dfs(numbers, target, 0, 0)
+    }
+    fun dfs(numbers: IntArray, target: Int, index: Int, num: Int): Int {
+        return if(index == numbers.size) {
+            if(target == num) 1 else 0
+        } else {
+            dfs(numbers, target, index + 1, num + numbers[index]) + dfs(numbers, target, index + 1, num - numbers[index])
+        }
+    }
+}
+
 [1]
 class Solution {
     fun solution(numbers: IntArray, target: Int): Int {
@@ -58,4 +72,4 @@ class Solution {
 }
 
 
-// 성능은 [1] > [2] > 내풀이 순 ㅜㅜ
+// 성능은 [0] = [1] > [2] > 내풀이 순 ㅜㅜ
