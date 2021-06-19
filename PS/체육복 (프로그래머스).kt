@@ -52,3 +52,32 @@ class Solution {
         }
 }
 
+
+// 즉, 아래처럼 합집합 교집합 차집합을 활용하는것이 가능하다.
+// 이를 활용하기위해 list, set, map 관 변환과 관련된 함수들을 찾아보자
+
+fun main(args : Array<String>) {
+
+    val ms = mutableSetOf(1, 2, 3, 4)
+    val ms2 = mutableSetOf(3, 4, 5, 6)
+
+    println("=============집 합================")
+    println("ms : ${ms.toString()}")
+    println("ms2 : ${ms2.toString()}")
+
+    val plus = ms + ms2 // or  ms.union(ms2)
+    println("합집합 : ${plus.toString()}")
+
+    val minus = ms - ms2 // or  ms.subtract(ms2)
+    println("차집합 : ${minus.toString()}")
+
+    val equal = ms.intersect(ms2)
+    println("교집합 : ${equal.toString()}")
+}
+
+// =============집 합================
+// ms : [1, 2, 3, 4]
+// ms2 : [3, 4, 5, 6]
+// 합집합 : [1, 2, 3, 4, 5, 6]
+// 차집합 : [1, 2]
+// 교집합 : [3, 4]
