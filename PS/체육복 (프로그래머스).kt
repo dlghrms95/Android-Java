@@ -31,6 +31,8 @@ class Solution {
 
 // 다른풀이 : 직관적으로 잘 해석되서 가져옴
 // 근데 애초에 n의 크기가 2~30 이라 아래의 풀이는 내 풀이보다 시간이 훨씬 많이 걸리긴함
+// 추가적으로 set을 그저 중복이없는것으로 사용했는데 차집합 교집합 합집합 등의 방식으로 활용한것이
+// 흥미있다.
 
 class Solution {
         fun solution(n: Int, lost: IntArray, reserve: IntArray): Int {
