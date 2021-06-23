@@ -15,6 +15,11 @@ class Solution {
     }
 }
 
+// 문제 1의 다른사람 풀이 ㄷㄷ
+class Solution {
+    fun solution(s: String) = s.slice(((s.length - 1) / 2)..(s.length / 2))
+}
+
 // 문제 2
 class Solution {
     fun solution(n: Int): Int {
@@ -41,3 +46,13 @@ class Solution {
         return answer.toInt()
     }
 }
+
+// 문제 2의 다른사람 풀이 ㄷㄷ
+class Solution {
+    fun solution(n: Int): Int {
+        return n.toString(3).reversed().toInt(3)
+    }
+}
+
+
+// 물론 다른사람 풀이가 내 풀이보다 10ms 더 걸리긴 하지만.. 너무 멋지다. 
