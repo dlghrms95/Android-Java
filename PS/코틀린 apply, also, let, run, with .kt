@@ -13,6 +13,8 @@ class Solution {
     }
 }
 
+--------------------------------------------------------------------------
+    
 // 문자열 다루기 기본 - 프로그래머스(연습문제)
 // 각각 filter, all , toIntOrNull 활용함
 class Solution {
@@ -36,6 +38,8 @@ class Solution {
     fun solution(s: String) = (s.length == 4 || s.length == 6) && s.toIntOrNull() != null
 }
 
+--------------------------------------------------------------------------
+    
 // 시저 암호 - 프로그래머스(연습문제)
 // joinToString, when 등
 class Solution {
@@ -49,3 +53,54 @@ class Solution {
         }
     }
 }
+
+--------------------------------------------------------------------------
+    
+// 약수의 합 - 프로그래머스(연습문제)
+// filter
+
+// 기존 내 풀이
+class Solution {
+    fun solution(n: Int): Int {
+        var answer = 0
+        for (i in 1..n) {
+            if (n % i == 0) {
+                answer += i
+            }
+        }
+        return answer
+    }
+}
+
+// 다른사람풀이
+class Solution {
+    fun solution(n: Int): Int {
+        var answer = 0
+
+        answer = (1..n).filter {
+            n % it == 0
+        }.sum()
+        return answer
+    }
+}
+
+--------------------------------------------------------------------------
+ 
+// 이상한 문자 만들기 - 프로그래머스(연습문제)
+// joinToString, mapIndexed
+class Solution {
+    fun solution(s: String) =
+        s.split(" ").joinToString(" ") { word ->
+            word
+                .mapIndexed{ index, char ->
+                    if ( index % 2 == 0) char.toUpperCase() else char.toLowerCase()
+                }
+                .joinToString("")
+        }
+}
+
+--------------------------------------------------------------------------
+
+// 아직 정리할거 많이 남으무
+    
+    
