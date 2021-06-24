@@ -35,3 +35,17 @@ class Solution {
 class Solution {
     fun solution(s: String) = (s.length == 4 || s.length == 6) && s.toIntOrNull() != null
 }
+
+// 시저 암호 - 프로그래머스(연습문제)
+// joinToString, when 등
+class Solution {
+    fun solution(s: String, n: Int): String {
+        return s.toList().joinToString(separator = "") {
+            when (it) {
+                in 'A'..'Z' -> ('A'.toInt() + (it.toInt() - 'A'.toInt() + n) % ('Z' - 'A' + 1)).toChar()
+                in 'a'..'z' -> ('a'.toInt() + (it.toInt() - 'a'.toInt() + n) % ('z' - 'a' + 1)).toChar()
+                else -> it
+            }.toString()
+        }
+    }
+}
