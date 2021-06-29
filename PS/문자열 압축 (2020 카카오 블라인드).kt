@@ -1,6 +1,7 @@
 // 내풀이
-// 조건문만 너무 덕지덕지한 느낌이 없지않아 있다. 
+// 조건문이 너무 덕지덕지한 느낌이 없지않아 있다. 
 // 이게 최선인가?? 싶기도하고 실제 코테에 나왔으면 시간내에 못 풀었을듯 하다.
+// 그래도 시간효율은 나쁘지 않은 편!
 class Solution {
     fun solution(s: String): Int {
         var answer = 0
@@ -58,7 +59,8 @@ class Solution {
     }
 }
 
-// 다른 풀이중에서 정갈하고 깔끔해 개인적으로 마음에 드는 코드
+// 다른사람 풀이
+// 시간효율은 내풀이보다 15ms 정도 너 나왔지만, 다른 풀이 코드들과 비교했을 때 가장 정갈하고 깔끔하다.
 import kotlin.math.min
 class Solution {
     fun count(t:String, s:String, cur:Int, sum:Int) : Int {
@@ -82,41 +84,6 @@ class Solution {
             answer = min(answer, count(t, s, 0, 0))
         }
 
-        return answer
-    }
-}
-
-// 시간효율이 좋은 풀이
-import java.util.*
-class Solution {
-    data class Word(
-        val word : String,
-        var count : Int = 1
-    )
-    fun solution(s: String): Int {
-        var answer = Int.MAX_VALUE
-        for(space in 1..s.length) {
-            val compressedWordList = LinkedList<Word>()
-            var startIndex = 0
-            var endIndex = 0
-            while(endIndex != s.length) {
-                endIndex = (startIndex + space).let {
-                    if(it > s.length) s.length
-                    else it
-                }
-                val currentWord = s.substring(startIndex, endIndex)
-                if(compressedWordList.isEmpty() || compressedWordList.peekLast().word != currentWord) compressedWordList.add(Word(currentWord))
-                else compressedWordList.peekLast().count++
-                startIndex = endIndex
-            }
-            val length = compressedWordList.fold(0) {
-                acc, word ->
-                acc + word.word.length + if(word.count == 1) 0 else {
-                    word.count.toString().length
-                }
-            }
-            if(length < answer) answer = length
-        }
         return answer
     }
 }
