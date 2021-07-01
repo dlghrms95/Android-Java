@@ -36,3 +36,50 @@ class Solution {
     }    
     
 }
+
+// 다시 풀어본 내 풀이
+// 거의 혼자 했지만 permutaion 부분에서 조합 forEachIndexed 는 또 참조했다.
+class Solution {
+    val result_set = mutableSetOf<Int>()
+    
+    fun solution(numbers: String): Int {
+        var answer = 0
+        
+        permutation(numbers, "")
+        
+        for(i in result_set){
+            answer += sosu(i)
+        }
+        
+        return answer
+    }
+    
+    fun permutation(numbers: String, result: String){
+        if(!result.isEmpty()) {
+            result_set.add(result.toInt())
+        }
+        if(numbers.isEmpty()) {
+            return
+        }
+        
+        numbers.forEachIndexed { index, value ->
+            permutation(numbers.removeRange(index..index) , value + result)           
+        }
+    }
+    
+    fun sosu(num: Int): Int{        
+        if(num == 1 || num == 0){
+            return 0
+        }
+        
+        for(i in 2..num-1){
+            if(num % i != 0){
+                continue
+            }else{
+                return 0
+            }
+        }
+        return 1        
+    }
+    
+}
