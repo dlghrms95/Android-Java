@@ -39,7 +39,7 @@ class Solution {
             dfs(numbers, target, index + 1, num + numbers[index]) + dfs(numbers, target, index + 1, num - numbers[index])
         }
     }
-}
+} // 꼬리재귀로 tailrec fun dfs 하면 조금더 시간 짧아짐
 
 [1]
 class Solution {
@@ -72,4 +72,4 @@ class Solution {
 }
 
 
-// 성능은 [0] = [1] > [2] > 내풀이 순 ㅜㅜ
+// 성능은 [0] > [1] > [2] > 내풀이
