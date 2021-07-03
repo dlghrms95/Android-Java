@@ -38,23 +38,24 @@ class Solution {
     
 }
 
-// 나의 정답 풀이
+// 나의 정답 풀이 재귀사용하지 않았을 때 이거 오류나면 %1234567을 각각 
 class Solution {
     fun solution(n: Int): Int {
         var answer = 0
         val list = mutableListOf<Int>()
         list.add(0)
         list.add(1)
-        
-        for(i in 2..n){            
-            var result = (list[i-2] % 1234567) + (list[i-1] % 1234567)
+
+        for(i in 2..n){
+            var result = (list[i-2] + list[i-1]) % 1234567
             list.add(result)
         }
-        
-        answer = list[list.size-1] % 1234567
+
+        answer = list[list.size-1]
         return answer
     }
-    
+
+}
 }
 
 // 꼬리재귀를 이용한 다른사람 풀이
