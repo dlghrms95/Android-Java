@@ -130,7 +130,7 @@
 + [2021-03-28] : MultiMedia(picture, music, video, audio), RecyclerView ✔
 + [2021-03-30] : ThreadAnimation, TwinAnimation, PageSliding, Splash ✔
 + [2021-04-04] : Thread & AsyncTask [📌](https://github.com/h0keun/boostcourse_1), Socket [📌](https://github.com/h0keun/boostcourse_2), Http [📌](https://github.com/h0keun/boostcourse_3), Volley [📌](https://github.com/h0keun/boostcourse_4/tree/main), Json & GSON [📌](https://github.com/h0keun/JSON_Parsing), ImageLoad & API [📌](https://github.com/h0keun/API) ✔
-+ [2021-04-06] : DB, SQL, Table, Helper ✔
++ [2021-04-06] : DB, SQL, Table, Helper [📌](https://github.com/h0keun/Local_DB)✔
 <details><summary>[2021-04-05] 네트워킹 특강 ✔</summary>
 
 ```
