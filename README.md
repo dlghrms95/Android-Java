@@ -147,7 +147,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 </details>
 
 ## 4️⃣ Kotlin - 프로젝트 진행하며 익히기
-```<details><summary> ✏ </summary>```
+<details><summary> ✏ </summary>
 
 ### 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
 ### 네이버 부스트코스 코틀린 프로그래밍 1 [📌](https://www.boostcourse.org/mo132/joinLectures/28611)
@@ -195,7 +195,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
 
-```</details>```
+</details>
 
 ## 💬 아래에 내용정리를 잠깐 멈추는 이유..
 ```
