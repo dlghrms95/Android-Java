@@ -147,7 +147,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 </details>
 
 ## 4️⃣ Kotlin - 프로젝트 진행하며 익히기
-<details><summary> ✏ </summary>
+```<details><summary> ✏ </summary>```
 
 ### 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
 ### 네이버 부스트코스 코틀린 프로그래밍 1 [📌](https://www.boostcourse.org/mo132/joinLectures/28611)
@@ -159,7 +159,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 ```
 
 ### 🍕 STEP 1
-+ What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click
++ What I Learned - Lotto generator [📝](https://github.com/h0keun/Lotto_generator) 👈 click 
 + What I Learned - Secret Diary [📝](https://github.com/h0keun/Secret_Diary)
 + What I Learned - Calculator [📝](https://github.com/h0keun/Calculator)
 + What I Learned - Photo Frame [📝](https://github.com/h0keun/Photo_frame)
@@ -169,17 +169,17 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 ### 🍕 STEP 2  
 리뷰 필요함!  
-+ I Learned - FCM [📑](https://github.com/h0keun/FCM)
-+ I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying)  
-+ I Learned - Alarm [📑](https://github.com/h0keun/Alarm)
-+ I Learned - Book Review [📑](https://github.com/h0keun/Book_Review)
-+ I Learned - Tinder [📑](https://github.com/h0keun/Tinder)
-+ I Learned - Daangn [📑](https://github.com/h0keun/daangn_market)
-+ I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb)
++ I Learned - Alarm [📑](https://github.com/h0keun/Alarm) [2021-07-07 완료 ✔]  
++ I Learned - FCM [📑](https://github.com/h0keun/FCM) [2021-07-?? ??]
++ I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying) [2021-07-?? ??] 
++ I Learned - Book Review [📑](https://github.com/h0keun/Book_Review) [2021-07-?? ??]
++ I Learned - Tinder [📑](https://github.com/h0keun/Tinder) [2021-07-?? ??]
++ I Learned - Daangn [📑](https://github.com/h0keun/daangn_market) [2021-07-?? ??]
++ I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb) [2021-07-?? ??]
 
 ### 🍕 STEP 3  
-+ Learning - Youtube [📑](https://github.com/h0keun/youtube) 
-+ Learning - Melon [📑](https://github.com/h0keun/Melon) 
++ Learning - Youtube [📑](https://github.com/h0keun/youtube) [2021-07-?? ??]
++ Learning - Melon [📑](https://github.com/h0keun/Melon) [2021-07-?? ??]
 + Learning - 
 
 ### 🍕 STEP 4  
@@ -195,7 +195,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [inner class 등 여러 클래스들, private fun 함수선언 등] ✔✔✔✔✔✔✔[2021-04-2? 예정]
 + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
 
-</details>
+```</details>```
 
 ## 💬 아래에 내용정리를 잠깐 멈추는 이유..
 ```
