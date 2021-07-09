@@ -1,11 +1,11 @@
 패스트캠퍼스 수강강의중 STEP1 리뷰내용이 많이 빈약한것 같아서 보완해서 추가로 작성해야겠음!  
-Lotto generator []  
-Secret Diary []  
-Calculator []  
-Photo Frame []  
-Timer []  
-Voice Recorder []  
-web Browser []  
+예상일정  
+Secret Diary [2021-07-09 ✔]  
+Calculator [2021-07-09 ✔]  
+Photo Frame [2021-07-10  ]  
+Timer [2021-07-10  ]  
+Voice Recorder [2021-07-11  ]  
+web Browser [2021-07-11  ]  
 
 ## 1️⃣ Android Roadmap
 <details><summary> ✏ </summary>
