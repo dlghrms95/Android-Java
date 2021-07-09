@@ -178,6 +178,7 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + I Learned - Tinder [📑](https://github.com/h0keun/Tinder) [2021-07-?? ??]
 + I Learned - Daangn [📑](https://github.com/h0keun/daangn_market) [2021-07-?? ??]
 + I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb) [2021-07-?? ??]
++ STEP 1 에서 Voice Recorder는 Custom UI 를 다루는 부분이 있어 한번 더 리뷰해보는게 좋을거 같음!
 
 ### 🍕 STEP 3  
 + Learning - Youtube [📑](https://github.com/h0keun/youtube) [2021-07-?? ??]
