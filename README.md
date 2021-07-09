@@ -1,10 +1,11 @@
-일정 - 부스트캠프 1차 2차 코딩테스트 시험이 끝났고 결과는 7월 13일에 나온다.  
-어떻게든 부캠 해보겠다고 코딩테스트를 준비하며 3주가량을 보냈는데  
-결과나오기 전까지는 원래 하던데로 그간 진행했던 패스트캠퍼스 강의 정리하지 못한부분을  
-전부 정리해야겠다. 5일부터 13일까지 9일이면 충분할듯?  
-특히 많이쓰는 라이브러리들 위주로 손코딩 가능할 정도로 완벽하게 체크하쟈  
-부스트코스 안드로이드 정리내용들을 따로 또 서 pin??  
-패스트캠퍼스 안드로이드 정리내용들을 따로 또 빼서 pin?? 
+패스트캠퍼스 수강강의중 STEP1 리뷰내용이 많이 빈약한것 같아서 보완해서 추가로 작성해야겠음!  
+Lotto generator []  
+Secret Diary []  
+Calculator []  
+Photo Frame []  
+Timer []  
+Voice Recorder []  
+web Browser []  
 
 ## 1️⃣ Android Roadmap
 <details><summary> ✏ </summary>
@@ -199,11 +200,6 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 + [Kotlin let으로 null체크](https://tourspace.tistory.com/208) ✔✔✔✔✔✔✔[2021-04-2? 예정]
 
 </details>
-
-## 💬 아래에 내용정리를 잠깐 멈추는 이유..
-```
-내가 지금 미분적분을 배우고있는데 갑자기 더하기 빼기를 정리하는 느낌이랄까?
-```
 
 ## 5️⃣ 중간중간 학습하며 정리하는 내용 - ANDROID
 <details><summary> ✏ </summary>
@@ -457,18 +453,5 @@ cs지식 부담갖지말고 아래 링크사이트들 읽어보기
   추가로 알고리즘 문제풀이하는부분에 대해 많이 접해보지 못했으니 백준이나 프로그래머스 문제풀이도
   매주 최소 3개 정도...
 ```
-### 🍳 남은거
-[2021-05-26 ~ 27] : Book Review, daangn, Airbnb > Retrofit 정리, Glide 정리  
-[2021-05-28 ~ 29] : Tinder > RecyclerView 정리 / 깡샘 코틀린 pdf  
-[2021-05-29 ~ 30 ~ 31] : 이전 프로젝트 > RoomDB 정리 / FCM, Famous Saying, Alarm
-
-[2021-06-01] : 깡샘 코틀린 pdf ✔  
-5월분 처리못함 코테하면서 계속 봐주기  
-일단은 부캠준비우선!
-
-+ 진행해야할 부분  
-Java / Kotlin[북마크한 사이트랑 다운받은 PDF확인하고 정리..]  
-Algorithm ??[6월부터]  
-CS, DB, Network[북마크한 사이트 우선적으로 확인하고 정리]
 
 </details>
