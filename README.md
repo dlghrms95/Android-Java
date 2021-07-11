@@ -140,7 +140,10 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 
 </details>
 
-
+## 4️⃣ Kotlin - 프로젝트 진행하며 익히기
+```<details><summary> ✏ </summary>```
+<details><summary> </summary>
+  
 패스트캠퍼스 수강강의중 STEP1 리뷰내용이 많이 빈약한것 같아서 보완해서 추가로 작성해야겠음!  
 예상일정  
 Secret Diary [2021-07-09 ✔]  
@@ -156,9 +159,7 @@ STEP2 내용들은 본격적으로 Glide, RecyclerView, Retrofit, Firebase, API 
 
 아직 수강하지 않은 STEP3 이후의 부분들에서는 코루틴을 포함해 MVP, MVVM, DI, TDD 등 심화적인 부분에 대해서 다루기 때문에,  
 당장이라도 듣고 싶은 마음은 이해가지만 욕심부리지말고 천천히 앞부분부터 기초를 잘 닦고 배워나가도록  
-
-## 4️⃣ Kotlin - 프로젝트 진행하며 익히기
-```<details><summary> ✏ </summary>```
+</details>
 
 ### 코틀린 공식사이트 [📌](https://kotlinlang.org/)  
 ### 네이버 부스트코스 코틀린 프로그래밍 1 [📌](https://www.boostcourse.org/mo132/joinLectures/28611)
