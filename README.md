@@ -1,11 +1,18 @@
 패스트캠퍼스 수강강의중 STEP1 리뷰내용이 많이 빈약한것 같아서 보완해서 추가로 작성해야겠음!  
 예상일정  
 Secret Diary [2021-07-09 ✔]  
-Calculator [2021-07-09 ✔]  
-Photo Frame [2021-07-10  ]  
-Timer [2021-07-10  ]  
-Voice Recorder [2021-07-11  ]  
-web Browser [2021-07-11  ]  
+Calculator [2021-07-11 ✔]  
+Photo Frame [2021-07-12  ]  
+Timer [2021-07-12  ]  
+Voice Recorder [2021-07-13  ]  
+web Browser [2021-07-13  ]  
+
+위 부분들이 이미 한번 본것들을 더욱 세세하게 확인하는 느낌이라 조금 속도를 붙여 리뷰하는것이 가능할테지만,  
+STEP2 내용들은 본격적으로 Glide, RecyclerView, Retrofit, Firebase, API 등 조금은 난이도가 있는부분들이기 때문에  
+급하게 하기보다 천천히 꼼꼼히 리뷰하는 편이 좋을듯 하다.
+
+아직 수강하지 않은 STEP3 이후의 부분들에서는 코루틴을 포함해 MVP, MVVM, DI, TDD 등 심화적인 부분에 대해서 다루기 때문에,  
+당장이라도 듣고 싶은 마음은 이해가지만 욕심부리지말고 천천히 앞부분부터 기초를 잘 닦고 배워나가도록  
 
 ## 1️⃣ Android Roadmap
 <details><summary> ✏ </summary>
