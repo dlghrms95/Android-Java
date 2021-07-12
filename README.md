@@ -148,8 +148,8 @@ STUN, ICE, NIO, Netty, RxJava, HTTP Request/Response 등
 예상일정  
 Secret Diary [2021-07-09 ✔]  
 Calculator [2021-07-11 ✔]  
-Photo Frame [2021-07-12  ]  
-Timer [2021-07-12  ]  
+Photo Frame [2021-07-12 ✔]  
+Timer [2021-07-12 ✔]  
 Voice Recorder [2021-07-13  ]  
 web Browser [2021-07-13  ]  
 
