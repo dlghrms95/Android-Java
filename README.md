@@ -195,6 +195,18 @@ STEP2 내용들은 본격적으로 Glide, RecyclerView, Retrofit, Firebase, API 
 + Learning - Melon [📑](https://github.com/h0keun/Melon) [2021-07-?? ??]
 + Learning - 
 
+효율적인 학습을 위해 수강할 내용들을 미리 정해두면,,  
++ MotionLayout - OTT 앱 인트로 따라하기
++ coroutine - 깃험 레포지토리 앱
++ MVP, MVVM, CleanArchitecture, Koin, TDD - ToDo 앱
++ CleanArchitecture, Firebase - 쇼핑앱 만들기
++ CameraX - 카메라앱
++ Glide, Camera - SNS
++ AAC-VM 아키텍쳐, koin, TDD 등.. - 배달앱 클론
+
+아 설렌다. 완전히 내껄로 만들고 코테꾸준히 하면서 CS!!!  
+협업을 경험해보는게 필요한데,  
+비전공입장에 늦게 시작한점이 너무 슬프다.
 ### 🍕 STEP 4  
 
 ### 🍕 Kotlin 기록하며 학습하기 
