@@ -442,3 +442,10 @@ val intent = Intent(it, subActivity::class.Java)
   
 욕심부리자면 부스트코스에서 코틀린 강의 및 cs강의 수강하기
 </details>
+
+##### ◼ 잠시동안 simple routine
++ 오전 - 코테 1~2문
++ 12 ~ 3 : 패캠강의
++ 3 ~ 6 : 패캠강의
++ 6 ~ 9 : 코테 1~2 문
++ 9 ~ 12 : 정리
