@@ -182,32 +182,55 @@ STEP2 내용들은 본격적으로 Glide, RecyclerView, Retrofit, Firebase, API 
 ### 🍕 STEP 2  
 리뷰 필요함!  
 + I Learned - Alarm [📑](https://github.com/h0keun/Alarm) [2021-07-07 완료 ✔]  
-+ I Learned - FCM [📑](https://github.com/h0keun/FCM) [2021-07-?? ??]
-+ I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying) [2021-07-?? ??] 
-+ I Learned - Book Review [📑](https://github.com/h0keun/Book_Review) [2021-07-?? ??]
-+ I Learned - Tinder [📑](https://github.com/h0keun/Tinder) [2021-07-?? ??]
++ I Learned - FCM [📑](https://github.com/h0keun/FCM) [skip]
++ I Learned - Famous Saying [📑](https://github.com/h0keun/Famous_Saying) [skip] 
++ I Learned - Tinder [📑](https://github.com/h0keun/Tinder) [skip]  
+💡 위에 3가지 프로젝트는 firebase를 주로 다루는데 개인적으로 진행한 프로젝트에서도 자주 다루어 봤기 때문에  
+우선순위를 뒤로 미루는게 좋을거 같음!  
+💡 아래 3가지 프로젝트는 retrofit부터 recyclerview, glide, room, api등 조금더 현업에서 자주사용하는 내용에대해 다루기 때문에  
+우선순위를 먼저하여 리뷰하는게 좋을거 같음!!
++ I Learned - Book Review [📑](https://github.com/h0keun/Book_Review) [2021-07-24 ??]
 + I Learned - Daangn [📑](https://github.com/h0keun/daangn_market) [2021-07-?? ??]
 + I Learned - Airbnb [📑](https://github.com/h0keun/Airbnb) [2021-07-?? ??]
-+ STEP 1 에서 Voice Recorder는 Custom UI 를 다루는 부분이 있어 한번 더 리뷰해보는게 좋을거 같음!
 
 ### 🍕 STEP 3  
-+ Learning - Youtube [📑](https://github.com/h0keun/youtube) [2021-07-?? ??]
-+ Learning - Melon [📑](https://github.com/h0keun/Melon) [2021-07-?? ??]
-+ Learning - 
++ Learned - Youtube [📑](https://github.com/h0keun/youtube) [2021-07-?? ??] 
++ Learned - Melon [📑](https://github.com/h0keun/Melon) [2021-07-?? ??]
++ Learned - Google Map search
++ Learned = OTT(Netflix UI)
++ Learned - Git Repository
++ Learned - Fine dust
++ Learned - Unsplash ImageViewer
 
-효율적인 학습을 위해 수강할 내용들을 미리 정해두면,,  
-+ MotionLayout - OTT 앱 인트로 따라하기
-+ coroutine - 깃험 레포지토리 앱
-+ MVP, MVVM, CleanArchitecture, Koin, TDD - ToDo 앱
-+ CleanArchitecture, Firebase - 쇼핑앱 만들기
-+ CameraX - 카메라앱
-+ Glide, Camera - SNS
-+ AAC-VM 아키텍쳐, koin, TDD 등.. - 배달앱 클론
-
-아 설렌다. 완전히 내껄로 만들고 코테꾸준히 하면서 CS!!!  
-협업을 경험해보는게 필요한데,  
-비전공입장에 늦게 시작한점이 너무 슬프다.
 ### 🍕 STEP 4  
++ Learning - TODO
++ Learning - ShopingMall
++ Learning - Camera
++ Learning - SNS
++ Learning - SubWay
++ Learning - Tracking Parcel
++ Learning - Movie
+
+### 🍕 STEP 5  
++ Final - baemin
+
+👉 Google Map Search - Tmap POI 데이터, Retrofit, Gson, RecyclerView, Coroutines, Google Map API  
+👉 OTT(Netflix UI) - MotionLayout, AppbarLayout, CollapsingToolbar, Inset(FitSystemWindow), ConstraintSet  
+👉 Git Repository - Coroutines, Room  
+👉 Fine dust - 공공데이터 Open API, App widget, LocationManager, Retrofit, Coroutines  
+👉 Unsplash ImageViewer - Unsplash API, ShimmerLayout, wallpaperManager, Retrofit, Coroutines, Glide  
+
+Retrofit, glide, recyclerview 등 언급않고 새로 배울 내용만  
+👉 TOTO - Clean Architecture(MVP, MVVM), DI(Koin), TDD  
+👉 ShopingMall - Clean Architecturem, Firebase  
+👉 Camera - CameraX  
+👉 SNS - Firebase, Camera, Gallery  
+👉 SubWay - 공공데이터 Open API, MVP, Jetpack Navigation, Firebase, Koin, Room  
+👉 Tracking Parcel - 공공데이터 Open API, MVP, Jetpack Navigation, WorkManager, Koin, Room  
+👉 Movie - MVP, Jetpack Navigation, Koin, Firebase  
+
+final 주요개념 압축정리  
+👉 baemin - Clean Architecture, AAC-VM, Koin, POI, TDD, etc... playstore  
 
 ### 🍕 Kotlin 기록하며 학습하기 
 + [Kotlin 기본 문법](https://github.com/h0keun/Android-Java-Kotlin/blob/main/Kotlin/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
