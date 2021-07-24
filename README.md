@@ -197,7 +197,7 @@ STEP2 내용들은 본격적으로 Glide, RecyclerView, Retrofit, Firebase, API 
 + Learned - Youtube [📑](https://github.com/h0keun/youtube) [2021-07-?? ??] 
 + Learned - Melon [📑](https://github.com/h0keun/Melon) [2021-07-?? ??]
 + Learned - Google Map search
-+ Learned = OTT(Netflix UI)
++ Learned - OTT(Netflix UI)
 + Learned - Git Repository
 + Learned - Fine dust
 + Learned - Unsplash ImageViewer
